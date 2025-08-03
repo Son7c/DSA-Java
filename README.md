@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/Son7c/DSA-Java/tree/master/0695-max-area-of-island) |
+| [0792-binary-search](https://github.com/Son7c/DSA-Java/tree/master/0792-binary-search) |
 | [1036-rotting-oranges](https://github.com/Son7c/DSA-Java/tree/master/1036-rotting-oranges) |
 ## Matrix
 |  |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/Son7c/DSA-Java/tree/master/0695-max-area-of-island) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/Son7c/DSA-Java/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
