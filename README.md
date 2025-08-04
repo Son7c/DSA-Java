@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Son7c/DSA-Java/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/Son7c/DSA-Java/tree/master/0217-contains-duplicate) |
 | [0695-max-area-of-island](https://github.com/Son7c/DSA-Java/tree/master/0695-max-area-of-island) |
 | [0792-binary-search](https://github.com/Son7c/DSA-Java/tree/master/0792-binary-search) |
 | [1036-rotting-oranges](https://github.com/Son7c/DSA-Java/tree/master/1036-rotting-oranges) |
@@ -56,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Son7c/DSA-Java/tree/master/0151-reverse-words-in-a-string) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Son7c/DSA-Java/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Son7c/DSA-Java/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
