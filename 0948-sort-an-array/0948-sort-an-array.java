@@ -2,7 +2,7 @@ class Solution {
     public void mergeSort(int[] nums,int beg,int end){
         int mid;
         if(beg<end){
-            mid=(beg+end)/2;
+            mid=beg + (end - beg) / 2;
             mergeSort(nums,beg,mid);
             mergeSort(nums,mid+1,end);
             merge(nums,beg,mid,end);
