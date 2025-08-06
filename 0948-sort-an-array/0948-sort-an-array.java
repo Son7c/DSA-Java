@@ -18,9 +18,7 @@ class Solution {
         while(j<=end){
             temp[k++]=nums[j++];
         }
-        for(int z=0;z<temp.length;z++){
-            nums[beg+z]=temp[z];
-        }
+        System.arraycopy(temp,0,nums,beg,temp.length);
     }
     public int[] sortArray(int[] nums) {
         mergeSort(nums,0,nums.length-1);
