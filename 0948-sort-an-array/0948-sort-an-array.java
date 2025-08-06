@@ -1,38 +1,25 @@
 class Solution {
     public void mergeSort(int[] nums,int beg,int end){
-        int mid;
-        if(beg<end){
-            mid=beg + (end - beg) / 2;
-            mergeSort(nums,beg,mid);
-            mergeSort(nums,mid+1,end);
-            merge(nums,beg,mid,end);
-        }
+        if(beg>=end) return;
+        int mid=beg + (end - beg) / 2;
+        mergeSort(nums,beg,mid);
+        mergeSort(nums,mid+1,end);
+        merge(nums,beg,mid,end);
     }
     public void merge(int[] nums,int beg,int mid,int end){
-        int i=beg,j=mid+1,index=beg;
-        int[] temp=new int[nums.length];
+        int i=beg,j=mid+1,k=0;
+        int[] temp=new int[end-beg+1];
         while(i<=mid&&j<=end){
-            if(nums[i]<nums[j]){
-                temp[index]=nums[i];
-                i++;
-            }else{
-                temp[index]=nums[j];
-                j++;
-            }
-            index++;
+            temp[k++]=(nums[i]<nums[j])?nums[i++]:nums[j++];
         }
         while(i<=mid){
-            temp[index]=nums[i];
-            i++;
-            index++;
+            temp[k++]=nums[i++];
         }
         while(j<=end){
-            temp[index]=nums[j];
-            j++;
-            index++;
+            temp[k++]=nums[j++];
         }
-        for(int k=beg;k<index;k++){
-            nums[k]=temp[k];
+        for(int z=0;z<temp.length;z++){
+            nums[beg+z]=temp[z];
         }
     }
     public int[] sortArray(int[] nums) {
