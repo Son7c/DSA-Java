@@ -15,12 +15,12 @@ class Solution {
         Queue<Pair> q=new LinkedList<>();
         boolean[][]vis=new boolean[m][n];
         q.add(new Pair(sr,sc));
+        int newRow,newCol;
         while(!q.isEmpty()){
             Pair curr=q.remove();
             if(!vis[curr.row][curr.col]){
                 vis[curr.row][curr.col]=true;
                 image[curr.row][curr.col]=color;
-                int newRow,newCol;
                 for(int d=0;d<4;d++){
                     newRow=curr.row+dr[d];
                     newCol=curr.col+dc[d];
