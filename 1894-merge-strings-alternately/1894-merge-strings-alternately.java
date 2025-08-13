@@ -8,14 +8,8 @@ class Solution {
             lp++;
             rp++;
         }
-        while(lp<word1.length()){
-            str+=word1.charAt(lp);
-            lp++;
-        }
-        while(rp<word2.length()){
-            str+=word2.charAt(rp);
-            rp++;
-        }
+        if(lp<word1.length()) str+=word1.substring(lp);
+        else if(rp<word2.length()) str+=word2.substring(rp);
         return str;
     }
 }
