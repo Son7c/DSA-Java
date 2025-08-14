@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Son7c/DSA-Java/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Son7c/DSA-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Son7c/DSA-Java/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/Son7c/DSA-Java/tree/master/0036-valid-sudoku) |
 | [0075-sort-colors](https://github.com/Son7c/DSA-Java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Son7c/DSA-Java/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Son7c/DSA-Java/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Son7c/DSA-Java/tree/master/0036-valid-sudoku) |
 | [0695-max-area-of-island](https://github.com/Son7c/DSA-Java/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Son7c/DSA-Java/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Son7c/DSA-Java/tree/master/1036-rotting-oranges) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Son7c/DSA-Java/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/Son7c/DSA-Java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Son7c/DSA-Java/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Son7c/DSA-Java/tree/master/0242-valid-anagram) |
