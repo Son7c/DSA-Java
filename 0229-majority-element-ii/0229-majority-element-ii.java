@@ -6,8 +6,9 @@ class Solution {
             map.put(nums[i],map.getOrDefault(nums[i],0)+1);
         }
         List<Integer> list=new ArrayList<>();
+        int th=(int)Math.floor(nums.length/3);
         for(Integer keys:map.keySet()){
-            if(map.get(keys)>Math.floor(nums.length/3)) list.add(keys);
+            if(map.get(keys)>th) list.add(keys);
         }
         return list;
     }
