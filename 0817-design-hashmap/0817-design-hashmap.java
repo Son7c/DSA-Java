@@ -47,7 +47,7 @@ class MyHashMap {
         n=0;
 
         for(int i=0;i<oldBuckets.length;i++){
-            LinkedList<Node>ll=oldBuckets[i];
+            LinkedList<Node> ll=oldBuckets[i];
             for(int j=0;j<ll.size();j++){
                 Node node=oldBuckets[i].get(j);
                 put(node.key,node.value);
