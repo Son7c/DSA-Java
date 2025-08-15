@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Son7c/DSA-Java/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Son7c/DSA-Java/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/Son7c/DSA-Java/tree/master/0792-binary-search) |
+| [0817-design-hashmap](https://github.com/Son7c/DSA-Java/tree/master/0817-design-hashmap) |
 | [0948-sort-an-array](https://github.com/Son7c/DSA-Java/tree/master/0948-sort-an-array) |
 | [1036-rotting-oranges](https://github.com/Son7c/DSA-Java/tree/master/1036-rotting-oranges) |
 | [2058-concatenation-of-array](https://github.com/Son7c/DSA-Java/tree/master/2058-concatenation-of-array) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Son7c/DSA-Java/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Son7c/DSA-Java/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Son7c/DSA-Java/tree/master/0347-top-k-frequent-elements) |
+| [0817-design-hashmap](https://github.com/Son7c/DSA-Java/tree/master/0817-design-hashmap) |
 ## Sorting
 |  |
 | ------- |
@@ -201,4 +203,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Son7c/DSA-Java/tree/master/0155-min-stack) |
+| [0817-design-hashmap](https://github.com/Son7c/DSA-Java/tree/master/0817-design-hashmap) |
+## Linked List
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/Son7c/DSA-Java/tree/master/0817-design-hashmap) |
+## Hash Function
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/Son7c/DSA-Java/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
