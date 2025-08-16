@@ -9,34 +9,30 @@
  * }
  */
 class Solution {
+    public static ListNode rev(ListNode head){
+        if(head==null||head.next==null) return head;
+        ListNode newHead=rev(head.next);
+        ListNode front=head.next;
+        front.next=head;
+        head.next=null;
+        return newHead;
+    }
     public static ListNode removeNthFromEnd(ListNode head, int n) {
-        if(head==null||head.next==null){
-            return null;
+        if(head==null||head.next==null) return null;
+        ListNode rev=rev(head);
+        if(n==1){
+            return rev(rev.next);
         }
-        ListNode temp=head;
         int count=0;
-        while(temp!=null){
+        ListNode temp=rev;
+        while(temp.next!=null){
+            if(count==n-2){
+                break;
+            }
             count++;
             temp=temp.next;
         }
-        int prev=count-n-1;
-        if(prev==-1){
-            temp=head;
-            ListNode prevv=head;
-            temp=temp.next;
-            prevv.next=null;
-            return temp;
-        }
-        count=0;
-        temp=head;
-        while(count!=prev){
-            count++;
-            temp=temp.next;
-        }
-        if(count==prev){
-            temp.next=temp.next.next;
-            return head;
-        }
-        return head;
+        temp.next=temp.next.next;
+        return rev(rev);
     }
 }
