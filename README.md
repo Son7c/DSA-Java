@@ -218,9 +218,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Son7c/DSA-Java/tree/master/0023-merge-k-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/Son7c/DSA-Java/tree/master/0206-reverse-linked-list) |
 | [0817-design-hashmap](https://github.com/Son7c/DSA-Java/tree/master/0817-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
 | [0817-design-hashmap](https://github.com/Son7c/DSA-Java/tree/master/0817-design-hashmap) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Son7c/DSA-Java/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
