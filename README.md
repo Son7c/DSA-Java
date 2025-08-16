@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Son7c/DSA-Java/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Son7c/DSA-Java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Son7c/DSA-Java/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/Son7c/DSA-Java/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Son7c/DSA-Java/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Son7c/DSA-Java/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Son7c/DSA-Java/tree/master/0344-reverse-string) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Son7c/DSA-Java/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/Son7c/DSA-Java/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/Son7c/DSA-Java/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Son7c/DSA-Java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Son7c/DSA-Java/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Son7c/DSA-Java/tree/master/0229-majority-element-ii) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Son7c/DSA-Java/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Son7c/DSA-Java/tree/master/0023-merge-k-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/Son7c/DSA-Java/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Son7c/DSA-Java/tree/master/0206-reverse-linked-list) |
 | [0817-design-hashmap](https://github.com/Son7c/DSA-Java/tree/master/0817-design-hashmap) |
 ## Hash Function
