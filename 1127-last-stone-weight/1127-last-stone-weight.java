@@ -6,7 +6,6 @@ class Solution {
             pq.add(stones[i]);
         }
         while(pq.size()!=1&&!pq.isEmpty()){
-            if(pq.size()==1) return pq.peek();
             int val=pq.remove()-pq.remove();
             if(val==0) pq.add(0);
             else{
