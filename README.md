@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/Son7c/DSA-Java/tree/master/0817-design-hashmap) |
 | [0948-sort-an-array](https://github.com/Son7c/DSA-Java/tree/master/0948-sort-an-array) |
 | [1036-rotting-oranges](https://github.com/Son7c/DSA-Java/tree/master/1036-rotting-oranges) |
+| [1127-last-stone-weight](https://github.com/Son7c/DSA-Java/tree/master/1127-last-stone-weight) |
 | [2058-concatenation-of-array](https://github.com/Son7c/DSA-Java/tree/master/2058-concatenation-of-array) |
 ## Matrix
 |  |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Son7c/DSA-Java/tree/master/0347-top-k-frequent-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Son7c/DSA-Java/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/Son7c/DSA-Java/tree/master/0948-sort-an-array) |
+| [1127-last-stone-weight](https://github.com/Son7c/DSA-Java/tree/master/1127-last-stone-weight) |
 ## Merge Sort
 |  |
 | ------- |
