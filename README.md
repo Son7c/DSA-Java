@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Son7c/DSA-Java/tree/master/0543-diameter-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Son7c/DSA-Java/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Son7c/DSA-Java/tree/master/0733-flood-fill) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/Son7c/DSA-Java/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Son7c/DSA-Java/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Son7c/DSA-Java/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Son7c/DSA-Java/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Son7c/DSA-Java/tree/master/0733-flood-fill) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/Son7c/DSA-Java/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1036-rotting-oranges](https://github.com/Son7c/DSA-Java/tree/master/1036-rotting-oranges) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Son7c/DSA-Java/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Son7c/DSA-Java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Son7c/DSA-Java/tree/master/0347-top-k-frequent-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Son7c/DSA-Java/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/Son7c/DSA-Java/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0948-sort-an-array](https://github.com/Son7c/DSA-Java/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Son7c/DSA-Java/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Son7c/DSA-Java/tree/master/1127-last-stone-weight) |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0803-cheapest-flights-within-k-stops](https://github.com/Son7c/DSA-Java/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Son7c/DSA-Java/tree/master/2121-find-if-path-exists-in-graph) |
 ## Stack
 |  |
@@ -297,4 +301,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Son7c/DSA-Java/tree/master/0136-single-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0803-cheapest-flights-within-k-stops](https://github.com/Son7c/DSA-Java/tree/master/0803-cheapest-flights-within-k-stops) |
+## Shortest Path
+|  |
+| ------- |
+| [0803-cheapest-flights-within-k-stops](https://github.com/Son7c/DSA-Java/tree/master/0803-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
