@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Son7c/DSA-Java/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/Son7c/DSA-Java/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Son7c/DSA-Java/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/Son7c/DSA-Java/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Son7c/DSA-Java/tree/master/0792-binary-search) |
 | [0817-design-hashmap](https://github.com/Son7c/DSA-Java/tree/master/0817-design-hashmap) |
 | [0948-sort-an-array](https://github.com/Son7c/DSA-Java/tree/master/0948-sort-an-array) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Son7c/DSA-Java/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Son7c/DSA-Java/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/Son7c/DSA-Java/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/Son7c/DSA-Java/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
@@ -320,4 +322,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/Son7c/DSA-Java/tree/master/1706-min-cost-to-connect-all-points) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Son7c/DSA-Java/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
