@@ -1,55 +1,52 @@
 class MyCircularQueue {
     int arr[];
-    int front, rear;
-    
+    int front,rear;
     public MyCircularQueue(int k) {
-        arr = new int[k];
-        front = -1;
-        rear = -1;
+        arr=new int[k];
+        front=-1;rear=-1;
     }
     
     public boolean enQueue(int value) {
-        if(isFull()) return false;
-        if(isEmpty()) {
-            front = 0;
-            rear = 0;
-        } else {
-            rear = (rear + 1) % arr.length;
+        if((rear+1)%arr.length==front) return false;
+        if(front==-1){
+            front=0;
+            rear=0;
+        }else{
+            rear=(rear+1)%arr.length;
         }
-        arr[rear] = value;
+        arr[rear]=value;
         return true;
     }
     
     public boolean deQueue() {
-        if(isEmpty()) return false;
-        if(front == rear) {  // only one element
-            front = -1;
-            rear = -1;
-        } else {
-            front = (front + 1) % arr.length;
+        if(front==-1) return false;
+        if(front==rear){
+            rear=-1;
+            front=-1;
+        }else{
+            front=(front+1)%arr.length;
         }
         return true;
     }
     
     public int Front() {
-        if(isEmpty()) return -1;
+        if(front==-1) return -1;
         return arr[front];
     }
     
     public int Rear() {
-        if(isEmpty()) return -1;
+        if(front==-1) return -1;
         return arr[rear];
     }
     
     public boolean isEmpty() {
-        return front == -1;
+        return front==-1;
     }
     
     public boolean isFull() {
-        return (rear + 1) % arr.length == front;
+        return (rear+1)%arr.length==front;
     }
 }
-
 
 /**
  * Your MyCircularQueue object will be instantiated and called as such:
