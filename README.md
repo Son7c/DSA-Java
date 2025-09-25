@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Son7c/DSA-Java/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/Son7c/DSA-Java/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/Son7c/DSA-Java/tree/master/0543-diameter-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/Son7c/DSA-Java/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Son7c/DSA-Java/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Son7c/DSA-Java/tree/master/0733-flood-fill) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Son7c/DSA-Java/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Son7c/DSA-Java/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Son7c/DSA-Java/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/Son7c/DSA-Java/tree/master/0463-island-perimeter) |
+| [0684-redundant-connection](https://github.com/Son7c/DSA-Java/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Son7c/DSA-Java/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Son7c/DSA-Java/tree/master/0733-flood-fill) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Son7c/DSA-Java/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Son7c/DSA-Java/tree/master/0128-longest-consecutive-sequence) |
+| [0684-redundant-connection](https://github.com/Son7c/DSA-Java/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Son7c/DSA-Java/tree/master/0695-max-area-of-island) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Son7c/DSA-Java/tree/master/1706-min-cost-to-connect-all-points) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Son7c/DSA-Java/tree/master/2121-find-if-path-exists-in-graph) |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/Son7c/DSA-Java/tree/master/0684-redundant-connection) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Son7c/DSA-Java/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Son7c/DSA-Java/tree/master/1706-min-cost-to-connect-all-points) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Son7c/DSA-Java/tree/master/2121-find-if-path-exists-in-graph) |
