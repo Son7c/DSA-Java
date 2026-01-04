@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Son7c/DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Son7c/DSA-Java/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Son7c/DSA-Java/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Son7c/DSA-Java/tree/master/0125-valid-palindrome) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Son7c/DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/Son7c/DSA-Java/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/Son7c/DSA-Java/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Son7c/DSA-Java/tree/master/0138-copy-list-with-random-pointer) |
@@ -369,4 +371,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/Son7c/DSA-Java/tree/master/1300-critical-connections-in-a-network) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Son7c/DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
