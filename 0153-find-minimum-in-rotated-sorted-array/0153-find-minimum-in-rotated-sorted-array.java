@@ -1,16 +1,16 @@
 class Solution {
-    public int findMin(int[] nums) {
-        int l=0,h=nums.length-1,min=Integer.MAX_VALUE;
-        while(l<=h){
-            int mid=h-(h-l)/2;
-            if(nums[l]<=nums[mid]){
-                min=Math.min(min,nums[l]);
-                l=mid+1;
-            }else{
-                min=Math.min(min,nums[mid]);
-                h=mid-1;
-            }
+    public int binary(int[] nums, int left,int right){
+        if(left==right){
+            return nums[left];
         }
-        return min;
+        int mid=left+((right-left)/2);
+        if(nums[left]<=nums[mid]){
+            return Math.min(nums[left],binary(nums,mid+1,right));
+        }else{
+            return Math.min(nums[mid],binary(nums,left,mid-1));
+        }
+    }
+    public int findMin(int[] nums) {
+        return binary(nums,0,nums.length-1);
     }
 }
