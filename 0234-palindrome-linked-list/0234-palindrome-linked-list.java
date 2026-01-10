@@ -33,7 +33,7 @@ class Solution {
             slow=slow.next;
             head2=head2.next;
         }
-        if(head2!=null && slow==null) return false;
+        if(head2!=null) return false;
         return true;
     }
 }
