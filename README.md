@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Son7c/DSA-Java/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Son7c/DSA-Java/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Son7c/DSA-Java/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/Son7c/DSA-Java/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Son7c/DSA-Java/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Son7c/DSA-Java/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Son7c/DSA-Java/tree/master/0567-permutation-in-string) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Son7c/DSA-Java/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Son7c/DSA-Java/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Son7c/DSA-Java/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/Son7c/DSA-Java/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/Son7c/DSA-Java/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Son7c/DSA-Java/tree/master/0739-daily-temperatures) |
 ## Design
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Son7c/DSA-Java/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Son7c/DSA-Java/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Son7c/DSA-Java/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Son7c/DSA-Java/tree/master/0234-palindrome-linked-list) |
 | [0817-design-hashmap](https://github.com/Son7c/DSA-Java/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/Son7c/DSA-Java/tree/master/0860-design-circular-queue) |
 ## Hash Function
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Son7c/DSA-Java/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/Son7c/DSA-Java/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Son7c/DSA-Java/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Son7c/DSA-Java/tree/master/0234-palindrome-linked-list) |
 ## Binary Search Tree
 |  |
 | ------- |
