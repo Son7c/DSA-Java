@@ -11,7 +11,7 @@ class Solution {
             }else{
                 ans[i]=0;
             }
-            sr.push(i);
+            st.push(i);
         }
         return ans;
     }
