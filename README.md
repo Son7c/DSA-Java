@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Son7c/DSA-Java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Son7c/DSA-Java/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Son7c/DSA-Java/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/Son7c/DSA-Java/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/Son7c/DSA-Java/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Son7c/DSA-Java/tree/master/0347-top-k-frequent-elements) |
 | [0403-frog-jump](https://github.com/Son7c/DSA-Java/tree/master/0403-frog-jump) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Son7c/DSA-Java/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Son7c/DSA-Java/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/Son7c/DSA-Java/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Son7c/DSA-Java/tree/master/0347-top-k-frequent-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Son7c/DSA-Java/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Son7c/DSA-Java/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Son7c/DSA-Java/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Son7c/DSA-Java/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/Son7c/DSA-Java/tree/master/0239-sliding-window-maximum) |
 | [0860-design-circular-queue](https://github.com/Son7c/DSA-Java/tree/master/0860-design-circular-queue) |
 ## Bit Manipulation
 |  |
@@ -398,9 +401,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Son7c/DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/Son7c/DSA-Java/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/Son7c/DSA-Java/tree/master/0567-permutation-in-string) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Son7c/DSA-Java/tree/master/0070-climbing-stairs) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Son7c/DSA-Java/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
