@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Son7c/DSA-Java/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Son7c/DSA-Java/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Son7c/DSA-Java/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/Son7c/DSA-Java/tree/master/0389-find-the-difference) |
 | [0567-permutation-in-string](https://github.com/Son7c/DSA-Java/tree/master/0567-permutation-in-string) |
 | [1894-merge-strings-alternately](https://github.com/Son7c/DSA-Java/tree/master/1894-merge-strings-alternately) |
 ## Hash Table
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Son7c/DSA-Java/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Son7c/DSA-Java/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Son7c/DSA-Java/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/Son7c/DSA-Java/tree/master/0389-find-the-difference) |
 | [0567-permutation-in-string](https://github.com/Son7c/DSA-Java/tree/master/0567-permutation-in-string) |
 | [0817-design-hashmap](https://github.com/Son7c/DSA-Java/tree/master/0817-design-hashmap) |
 ## Sorting
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Son7c/DSA-Java/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Son7c/DSA-Java/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Son7c/DSA-Java/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/Son7c/DSA-Java/tree/master/0389-find-the-difference) |
 | [0948-sort-an-array](https://github.com/Son7c/DSA-Java/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Son7c/DSA-Java/tree/master/1014-k-closest-points-to-origin) |
 ## Simulation
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Son7c/DSA-Java/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Son7c/DSA-Java/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Son7c/DSA-Java/tree/master/0338-counting-bits) |
+| [0389-find-the-difference](https://github.com/Son7c/DSA-Java/tree/master/0389-find-the-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
