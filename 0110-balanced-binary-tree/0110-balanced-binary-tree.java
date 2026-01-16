@@ -14,28 +14,18 @@
  * }
  */
 class Solution {
-    class Pair{
-        int ht;
-        boolean bal;
-        public Pair(int h,boolean b){
-            this.ht=h;
-            this.bal=b;
+    boolean ans=true;
+    public int check(TreeNode root){
+        if(root==null) return 0;
+        int lh=check(root.left);
+        int rh=check(root.right);
+        if(Math.abs(lh-rh)>1){
+            ans=false;
         }
-    }
-    public Pair balanced(TreeNode root){
-        if(root==null){
-            return new Pair(0,true);
-        }
-        Pair left=balanced(root.left);
-        Pair right=balanced(root.right);
-        boolean isBal=left.bal&&right.bal&&Math.abs(left.ht-right.ht)<=1;
-        int height=Math.max(left.ht,right.ht)+1;
-        
-        return new Pair(height,isBal);
-
+        return 1+Math.max(lh,rh);
     }
     public boolean isBalanced(TreeNode root) {
-        if(root==null) return true;
-        return balanced(root).bal;
+        check(root);
+        return ans;
     }
 }
