@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Son7c/DSA-Java/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Son7c/DSA-Java/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/Son7c/DSA-Java/tree/master/0695-max-area-of-island) |
+| [0697-degree-of-an-array](https://github.com/Son7c/DSA-Java/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/Son7c/DSA-Java/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Son7c/DSA-Java/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Son7c/DSA-Java/tree/master/0739-daily-temperatures) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Son7c/DSA-Java/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Son7c/DSA-Java/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Son7c/DSA-Java/tree/master/0645-set-mismatch) |
+| [0697-degree-of-an-array](https://github.com/Son7c/DSA-Java/tree/master/0697-degree-of-an-array) |
 | [0817-design-hashmap](https://github.com/Son7c/DSA-Java/tree/master/0817-design-hashmap) |
 ## Sorting
 |  |
