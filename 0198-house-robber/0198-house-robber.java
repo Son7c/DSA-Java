@@ -1,17 +1,14 @@
 class Solution {
-    public int f(int n,int[] nums,int[] dp){
-        if(n==0) return nums[n];
-        if(n<0) return 0;
-        if(dp[n]!=-1) return dp[n];
-
-        int leave=nums[n]+f(n-2,nums,dp);
-        int noLeave=0+f(n-1,nums,dp);
-
-        return dp[n]=Math.max(leave,noLeave);
-    }
     public int rob(int[] nums) {
-        int[] dp=new int[nums.length];
-        Arrays.fill(dp,-1);
-        return f(nums.length-1,nums,dp);
+        int n=nums.length;
+        if(n==0) return 0;
+        if(n==1) return nums[0];
+        int dp[]=new int[n];
+        dp[0]=nums[0];
+        dp[1]=Math.max(nums[0],nums[1]);
+        for(int i=2;i<n;i++){
+            dp[i]=Math.max(nums[i]+dp[i-2],dp[i-1]);
+        }
+        return dp[n-1];
     }
 }
