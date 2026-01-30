@@ -1,16 +1,17 @@
 class Solution {
-    public int fn(int[] nums,int n,int[]dp){
+    public int f(int n,int[] nums,int[] dp){
         if(n==0) return nums[n];
         if(n<0) return 0;
         if(dp[n]!=-1) return dp[n];
 
-        int pick=nums[n]+fn(nums,n-2,dp);
-        int notPick=0+fn(nums,n-1,dp);
-        return dp[n]=Math.max(pick,notPick);
+        int leave=nums[n]+f(n-2,nums,dp);
+        int noLeave=0+f(n-1,nums,dp);
+
+        return dp[n]=Math.max(leave,noLeave);
     }
     public int rob(int[] nums) {
-        int dp[]=new int[nums.length];
-        Arrays.fill(dp, -1);
-        return fn(nums,nums.length-1,dp);
+        int[] dp=new int[nums.length];
+        Arrays.fill(dp,-1);
+        return f(nums.length-1,nums,dp);
     }
 }
