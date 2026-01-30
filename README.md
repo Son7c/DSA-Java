@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Son7c/DSA-Java/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Son7c/DSA-Java/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Son7c/DSA-Java/tree/master/0088-merge-sorted-array) |
+| [0120-triangle](https://github.com/Son7c/DSA-Java/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Son7c/DSA-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Son7c/DSA-Java/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Son7c/DSA-Java/tree/master/0136-single-number) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Son7c/DSA-Java/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Son7c/DSA-Java/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Son7c/DSA-Java/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/Son7c/DSA-Java/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Son7c/DSA-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Son7c/DSA-Java/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/Son7c/DSA-Java/tree/master/0338-counting-bits) |
