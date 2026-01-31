@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/Son7c/DSA-Java/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/Son7c/DSA-Java/tree/master/0860-design-circular-queue) |
 | [0875-koko-eating-bananas](https://github.com/Son7c/DSA-Java/tree/master/0875-koko-eating-bananas) |
+| [0931-minimum-falling-path-sum](https://github.com/Son7c/DSA-Java/tree/master/0931-minimum-falling-path-sum) |
 | [0948-sort-an-array](https://github.com/Son7c/DSA-Java/tree/master/0948-sort-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Son7c/DSA-Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Son7c/DSA-Java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Son7c/DSA-Java/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Son7c/DSA-Java/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Son7c/DSA-Java/tree/master/0733-flood-fill) |
+| [0931-minimum-falling-path-sum](https://github.com/Son7c/DSA-Java/tree/master/0931-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Son7c/DSA-Java/tree/master/1036-rotting-oranges) |
 ## Union Find
 |  |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Son7c/DSA-Java/tree/master/0338-counting-bits) |
 | [0403-frog-jump](https://github.com/Son7c/DSA-Java/tree/master/0403-frog-jump) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Son7c/DSA-Java/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0931-minimum-falling-path-sum](https://github.com/Son7c/DSA-Java/tree/master/0931-minimum-falling-path-sum) |
 ## Shortest Path
 |  |
 | ------- |
