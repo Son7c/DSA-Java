@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Son7c/DSA-Java/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Son7c/DSA-Java/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Son7c/DSA-Java/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/Son7c/DSA-Java/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Son7c/DSA-Java/tree/master/0567-permutation-in-string) |
 | [1894-merge-strings-alternately](https://github.com/Son7c/DSA-Java/tree/master/1894-merge-strings-alternately) |
 ## Hash Table
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Son7c/DSA-Java/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Son7c/DSA-Java/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Son7c/DSA-Java/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/Son7c/DSA-Java/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Son7c/DSA-Java/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Son7c/DSA-Java/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Son7c/DSA-Java/tree/master/0645-set-mismatch) |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Son7c/DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Son7c/DSA-Java/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Son7c/DSA-Java/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Son7c/DSA-Java/tree/master/0567-permutation-in-string) |
 | [1004-max-consecutive-ones-iii](https://github.com/Son7c/DSA-Java/tree/master/1004-max-consecutive-ones-iii) |
 ## Memoization
