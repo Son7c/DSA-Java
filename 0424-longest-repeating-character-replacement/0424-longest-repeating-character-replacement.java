@@ -5,7 +5,7 @@ class Solution {
         while(r<s.length()){
             freq[s.charAt(r)-'A']++;
             maxf=Math.max(freq[s.charAt(r)-'A'],maxf);
-            while(r-l+1-maxf>k){
+            if(r-l+1-maxf>k){
                 freq[s.charAt(l)-'A']--;
                 l++;
             }
