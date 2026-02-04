@@ -8,10 +8,6 @@ class Solution {
             while(r-l+1-maxf>k){
                 freq[s.charAt(l)-'A']--;
                 l++;
-                maxf=0;
-                for(int i=0;i<26;i++){
-                    maxf=Math.max(maxf,freq[i]);
-                }
             }
             if(r-l+1-maxf<=k){
                 maxLen=Math.max(maxLen,r-l+1);
