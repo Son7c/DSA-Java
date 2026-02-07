@@ -9,9 +9,7 @@ class Solution {
             }else if(ch==')'){
                 count--;
             }
-            if(count==1&&ch==')'){
-                sb.append(ch);
-            }else if((count==1&&ch=='(')||count==0){
+            if((count==1&&ch=='(')||count==0){
                 continue;
             }else{
                 sb.append(ch);
