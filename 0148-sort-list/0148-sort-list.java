@@ -11,16 +11,18 @@
 class Solution {
     public ListNode sortList(ListNode head) {
         if(head==null) return null;
-        PriorityQueue<Integer> pq=new PriorityQueue<>();
         ListNode temp=head;
+        ArrayList<Integer> list=new ArrayList<>();
         while(temp!=null){
-            pq.add(temp.val);
+            list.add(temp.val);
             temp=temp.next;
         }
+        Integer[]arr=list.toArray(new Integer[list.size()]);
+        Arrays.sort(arr);
         temp=new ListNode(-1);
         ListNode newHead=temp;
-        while(!pq.isEmpty()){
-            temp.next=new ListNode(pq.remove());
+        for(Integer i:arr){
+            temp.next=new ListNode(i);
             temp=temp.next;
         }
         return newHead.next;
