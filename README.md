@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Son7c/DSA-Java/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Son7c/DSA-Java/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Son7c/DSA-Java/tree/master/0567-permutation-in-string) |
+| [0796-rotate-string](https://github.com/Son7c/DSA-Java/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Son7c/DSA-Java/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Son7c/DSA-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/Son7c/DSA-Java/tree/master/1894-merge-strings-alternately) |
@@ -517,4 +518,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Son7c/DSA-Java/tree/master/0062-unique-paths) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Son7c/DSA-Java/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
