@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Son7c/DSA-Java/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/Son7c/DSA-Java/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Son7c/DSA-Java/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Son7c/DSA-Java/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Son7c/DSA-Java/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Son7c/DSA-Java/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Son7c/DSA-Java/tree/master/0075-sort-colors) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Son7c/DSA-Java/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/Son7c/DSA-Java/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Son7c/DSA-Java/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Son7c/DSA-Java/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Son7c/DSA-Java/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Son7c/DSA-Java/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Son7c/DSA-Java/tree/master/0463-island-perimeter) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Son7c/DSA-Java/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Son7c/DSA-Java/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Son7c/DSA-Java/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Son7c/DSA-Java/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/Son7c/DSA-Java/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Son7c/DSA-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
