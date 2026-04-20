@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/Son7c/DSA-Java/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Son7c/DSA-Java/tree/master/0416-partition-equal-subset-sum) |
 | [0463-island-perimeter](https://github.com/Son7c/DSA-Java/tree/master/0463-island-perimeter) |
+| [0485-max-consecutive-ones](https://github.com/Son7c/DSA-Java/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Son7c/DSA-Java/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Son7c/DSA-Java/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Son7c/DSA-Java/tree/master/0540-single-element-in-a-sorted-array) |
