@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Son7c/DSA-Java/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Son7c/DSA-Java/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Son7c/DSA-Java/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Son7c/DSA-Java/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Son7c/DSA-Java/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/Son7c/DSA-Java/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Son7c/DSA-Java/tree/master/0347-top-k-frequent-elements) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Son7c/DSA-Java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Son7c/DSA-Java/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Son7c/DSA-Java/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/Son7c/DSA-Java/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Son7c/DSA-Java/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Son7c/DSA-Java/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Son7c/DSA-Java/tree/master/0567-permutation-in-string) |
