@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Son7c/DSA-Java/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/Son7c/DSA-Java/tree/master/0319-bulb-switcher) |
 | [1014-k-closest-points-to-origin](https://github.com/Son7c/DSA-Java/tree/master/1014-k-closest-points-to-origin) |
+| [1903-largest-odd-number-in-string](https://github.com/Son7c/DSA-Java/tree/master/1903-largest-odd-number-in-string) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Son7c/DSA-Java/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Two Pointers
 |  |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Son7c/DSA-Java/tree/master/1143-longest-common-subsequence) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Son7c/DSA-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/Son7c/DSA-Java/tree/master/1894-merge-strings-alternately) |
+| [1903-largest-odd-number-in-string](https://github.com/Son7c/DSA-Java/tree/master/1903-largest-odd-number-in-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -541,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Son7c/DSA-Java/tree/master/0621-task-scheduler) |
+| [1903-largest-odd-number-in-string](https://github.com/Son7c/DSA-Java/tree/master/1903-largest-odd-number-in-string) |
 ## Union-Find
 |  |
 | ------- |
