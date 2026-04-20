@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Son7c/DSA-Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Son7c/DSA-Java/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Son7c/DSA-Java/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Son7c/DSA-Java/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Son7c/DSA-Java/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Son7c/DSA-Java/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Son7c/DSA-Java/tree/master/0064-minimum-path-sum) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Son7c/DSA-Java/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Son7c/DSA-Java/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Son7c/DSA-Java/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Son7c/DSA-Java/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Son7c/DSA-Java/tree/master/0064-minimum-path-sum) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Son7c/DSA-Java/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Son7c/DSA-Java/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/Son7c/DSA-Java/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Son7c/DSA-Java/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Son7c/DSA-Java/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Son7c/DSA-Java/tree/master/0066-plus-one) |
