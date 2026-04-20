@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/Son7c/DSA-Java/tree/master/1127-last-stone-weight) |
 | [1463-cherry-pickup-ii](https://github.com/Son7c/DSA-Java/tree/master/1463-cherry-pickup-ii) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Son7c/DSA-Java/tree/master/1706-min-cost-to-connect-all-points) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/Son7c/DSA-Java/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2058-concatenation-of-array](https://github.com/Son7c/DSA-Java/tree/master/2058-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Son7c/DSA-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Matrix
