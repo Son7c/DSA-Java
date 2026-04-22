@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Son7c/DSA-Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Son7c/DSA-Java/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Son7c/DSA-Java/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/Son7c/DSA-Java/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Son7c/DSA-Java/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Son7c/DSA-Java/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Son7c/DSA-Java/tree/master/0063-unique-paths-ii) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Son7c/DSA-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Son7c/DSA-Java/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Son7c/DSA-Java/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Son7c/DSA-Java/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Son7c/DSA-Java/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/Son7c/DSA-Java/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/Son7c/DSA-Java/tree/master/0088-merge-sorted-array) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Son7c/DSA-Java/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Son7c/DSA-Java/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Son7c/DSA-Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Son7c/DSA-Java/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Son7c/DSA-Java/tree/master/0144-binary-tree-preorder-traversal) |
@@ -524,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Son7c/DSA-Java/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Son7c/DSA-Java/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Son7c/DSA-Java/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Son7c/DSA-Java/tree/master/0064-minimum-path-sum) |
@@ -556,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Son7c/DSA-Java/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Son7c/DSA-Java/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Son7c/DSA-Java/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Son7c/DSA-Java/tree/master/0739-daily-temperatures) |
