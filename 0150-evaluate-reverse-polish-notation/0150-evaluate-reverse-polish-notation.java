@@ -1,38 +1,31 @@
 class Solution {
-    public int expression(String op,int a,int b){
-        int result=0;
-        switch(op){
+    public int getVal(int a, int b,String ch) {
+        switch(ch){
             case "+":
-                result=a+b;
-                break;
+                return a+b;
             case "-":
-                result=a-b;
-                break;
+                return b-a;
             case "*":
-                result=a*b;
-                break;
+                return a*b;
             case "/":
-                result=a/b;
-                break;
-            default :
-                result=0;
-                break;
+                return b/a;
+            default:
+                return -1;
         }
-        return result;
     }
+
     public int evalRPN(String[] tokens) {
         Stack<Integer> st=new Stack<>();
-        for(String str:tokens){
-            if(str.equals("+")||str.equals("-")||str.equals("*")||str.equals("/")){
-                int b=st.pop();
+        for(int i=0;i<tokens.length;i++){
+            String ch=tokens[i];
+            if(ch.equals("+")||ch.equals("-")||ch.equals("*")||ch.equals("/")){
                 int a=st.pop();
-                int result=expression(str,a,b);
-                st.push(result);
+                int b=st.pop();
+                st.push(getVal(a,b,ch));
             }else{
-                st.push(Integer.parseInt(str));
+                st.push(Integer.parseInt(ch));
             }
         }
         return st.pop();
-
     }
 }
