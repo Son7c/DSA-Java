@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Son7c/DSA-Java/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/Son7c/DSA-Java/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/Son7c/DSA-Java/tree/master/0319-bulb-switcher) |
+| [0788-rotated-digits](https://github.com/Son7c/DSA-Java/tree/master/0788-rotated-digits) |
 | [1014-k-closest-points-to-origin](https://github.com/Son7c/DSA-Java/tree/master/1014-k-closest-points-to-origin) |
 | [1903-largest-odd-number-in-string](https://github.com/Son7c/DSA-Java/tree/master/1903-largest-odd-number-in-string) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Son7c/DSA-Java/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -555,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Son7c/DSA-Java/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Son7c/DSA-Java/tree/master/0518-coin-change-ii) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Son7c/DSA-Java/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0788-rotated-digits](https://github.com/Son7c/DSA-Java/tree/master/0788-rotated-digits) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Son7c/DSA-Java/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/Son7c/DSA-Java/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/Son7c/DSA-Java/tree/master/0931-minimum-falling-path-sum) |
