@@ -1,11 +1,19 @@
 class Solution {
     public int rotatedDigits(int n) {
-      int count=0;
-      Set<Integer> set2=new HashSet<>();
-      for(int i=2;i<=n;i++){
-        if(String.valueOf(i).contains("3") || String.valueOf(i).contains("4") || String.valueOf(i).contains("7"))  continue;
-        if(String.valueOf(i).contains("2")||String.valueOf(i).contains("5")||String.valueOf(i).contains("6")||String.valueOf(i).contains("9")) count++;
-      }  
-      return count;
+        int count =0;
+        for(int i=1;i<=n;i++){
+            if(isGood(i)) count++;
+        }
+        return count;
+    }
+    public boolean isGood(int num){
+        boolean isDifferent=false;
+        while(num>0){
+            int digit=num%10;
+            if(digit==3||digit==4||digit==7) return false;
+            if(digit==2||digit==5||digit==6||digit==9) isDifferent=true;
+            num=num/10;
+        }
+        return isDifferent;
     }
 }
