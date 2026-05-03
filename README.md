@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Son7c/DSA-Java/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/Son7c/DSA-Java/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Son7c/DSA-Java/tree/master/0347-top-k-frequent-elements) |
+| [0396-rotate-function](https://github.com/Son7c/DSA-Java/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/Son7c/DSA-Java/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Son7c/DSA-Java/tree/master/0416-partition-equal-subset-sum) |
 | [0463-island-perimeter](https://github.com/Son7c/DSA-Java/tree/master/0463-island-perimeter) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Son7c/DSA-Java/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/Son7c/DSA-Java/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/Son7c/DSA-Java/tree/master/0319-bulb-switcher) |
+| [0396-rotate-function](https://github.com/Son7c/DSA-Java/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/Son7c/DSA-Java/tree/master/0788-rotated-digits) |
 | [1014-k-closest-points-to-origin](https://github.com/Son7c/DSA-Java/tree/master/1014-k-closest-points-to-origin) |
 | [1903-largest-odd-number-in-string](https://github.com/Son7c/DSA-Java/tree/master/1903-largest-odd-number-in-string) |
@@ -550,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Son7c/DSA-Java/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Son7c/DSA-Java/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Son7c/DSA-Java/tree/master/0338-counting-bits) |
+| [0396-rotate-function](https://github.com/Son7c/DSA-Java/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/Son7c/DSA-Java/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Son7c/DSA-Java/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Son7c/DSA-Java/tree/master/0494-target-sum) |
