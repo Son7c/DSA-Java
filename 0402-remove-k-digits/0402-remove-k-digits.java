@@ -23,7 +23,8 @@ class Solution {
             sb.append(i);
         }
         int idx=0;
-        while(sb.length()>0&&sb.charAt(idx)=='0') sb.deleteCharAt(idx);
-        return sb.length()==0?"0":sb.toString();
+        while(idx<sb.length()&&sb.charAt(idx)=='0') idx++;
+        String result=sb.substring(idx);
+        return result.length()==0?"0":result;
     }
 }
