@@ -22,7 +22,8 @@ class Solution {
         for(int i:st){
             sb.append(i);
         }
-        if(sb.length()==0) return "0";
-        return sb.toString().replaceFirst("^0+(?!$)", "");
+        int idx=0;
+        while(sb.length()>0&&sb.charAt(idx)=='0') sb.deleteCharAt(idx);
+        return sb.length()==0?"0":sb.toString();
     }
 }
