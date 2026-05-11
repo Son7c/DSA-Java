@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/Son7c/DSA-Java/tree/master/2058-concatenation-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Son7c/DSA-Java/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Son7c/DSA-Java/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Son7c/DSA-Java/tree/master/2553-separate-the-digits-in-an-array) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Son7c/DSA-Java/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Son7c/DSA-Java/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Matrix
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/Son7c/DSA-Java/tree/master/2058-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Son7c/DSA-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Son7c/DSA-Java/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Son7c/DSA-Java/tree/master/2553-separate-the-digits-in-an-array) |
 ## Trie
 |  |
 | ------- |
