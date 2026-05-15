@@ -1,6 +1,6 @@
 class Solution {
     public String minWindow(String s, String t) {
-        int left = 0, ans = Integer.MAX_VALUE, count = 0;
+        int left = 0, ans = Integer.MAX_VALUE, count = 0,start=0;
         StringBuilder sb = new StringBuilder();
         HashMap<Character, Integer> map = new HashMap<>();
         for (int i = 0; i < t.length(); i++) {
@@ -18,8 +18,7 @@ class Solution {
             while (count == t.length()) {
                 if (right - left + 1 < ans) {
                     ans = right - left + 1;
-                    sb = new StringBuilder(
-                            s.substring(left, right + 1));
+                    start=left;
                 }
                 //Shrinking
                 if (map.containsKey(s.charAt(left))) {
@@ -31,6 +30,6 @@ class Solution {
                 left++;
             }
         }
-        return sb.toString();
+        return ans==Integer.MAX_VALUE?"":s.substring(start,start+ans);
     }
 }
