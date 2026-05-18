@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Son7c/DSA-Java/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Son7c/DSA-Java/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Son7c/DSA-Java/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/Son7c/DSA-Java/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Son7c/DSA-Java/tree/master/0151-reverse-words-in-a-string) |
 | [0224-basic-calculator](https://github.com/Son7c/DSA-Java/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Son7c/DSA-Java/tree/master/0242-valid-anagram) |
@@ -573,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Son7c/DSA-Java/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/Son7c/DSA-Java/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Son7c/DSA-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/Son7c/DSA-Java/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Son7c/DSA-Java/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Son7c/DSA-Java/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Son7c/DSA-Java/tree/master/0322-coin-change) |
@@ -673,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/Son7c/DSA-Java/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/Son7c/DSA-Java/tree/master/0494-target-sum) |
 ## Rolling Hash
 |  |
