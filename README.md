@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Son7c/DSA-Java/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/Son7c/DSA-Java/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/Son7c/DSA-Java/tree/master/0268-missing-number) |
+| [0282-expression-add-operators](https://github.com/Son7c/DSA-Java/tree/master/0282-expression-add-operators) |
 | [0319-bulb-switcher](https://github.com/Son7c/DSA-Java/tree/master/0319-bulb-switcher) |
 | [0396-rotate-function](https://github.com/Son7c/DSA-Java/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/Son7c/DSA-Java/tree/master/0788-rotated-digits) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Son7c/DSA-Java/tree/master/0151-reverse-words-in-a-string) |
 | [0224-basic-calculator](https://github.com/Son7c/DSA-Java/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Son7c/DSA-Java/tree/master/0242-valid-anagram) |
+| [0282-expression-add-operators](https://github.com/Son7c/DSA-Java/tree/master/0282-expression-add-operators) |
 | [0344-reverse-string](https://github.com/Son7c/DSA-Java/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Son7c/DSA-Java/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/Son7c/DSA-Java/tree/master/0394-decode-string) |
@@ -685,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Son7c/DSA-Java/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Son7c/DSA-Java/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Son7c/DSA-Java/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/Son7c/DSA-Java/tree/master/0282-expression-add-operators) |
 | [0494-target-sum](https://github.com/Son7c/DSA-Java/tree/master/0494-target-sum) |
 ## Rolling Hash
 |  |
