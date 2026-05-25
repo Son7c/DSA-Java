@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Son7c/DSA-Java/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/Son7c/DSA-Java/tree/master/1143-longest-common-subsequence) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Son7c/DSA-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Son7c/DSA-Java/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1894-merge-strings-alternately](https://github.com/Son7c/DSA-Java/tree/master/1894-merge-strings-alternately) |
 | [1903-largest-odd-number-in-string](https://github.com/Son7c/DSA-Java/tree/master/1903-largest-odd-number-in-string) |
 ## Hash Table
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/Son7c/DSA-Java/tree/master/0981-time-based-key-value-store) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Son7c/DSA-Java/tree/master/0992-subarrays-with-k-different-integers) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Son7c/DSA-Java/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Son7c/DSA-Java/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Sorting
 |  |
 | ------- |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Son7c/DSA-Java/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Son7c/DSA-Java/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Son7c/DSA-Java/tree/master/0992-subarrays-with-k-different-integers) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Son7c/DSA-Java/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
