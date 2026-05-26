@@ -1,7 +1,7 @@
 class Solution {
     public String rle(String s){
         int i=0;
-        String str="";
+        StringBuilder sb=new StringBuilder();
         while(i<=s.length()-1){
             char prev=s.charAt(i);
             int idx=i+1,count=1;
@@ -10,14 +10,15 @@ class Solution {
                 i++;
                 count++;
             }
-            str+=count;
-            str+=prev;
+            sb.append(count);
+            sb.append(prev);
             i++;
         }
-        return str;
+        return sb.toString();
     }
     public String countAndSay(int n) {
         if(n==1) return "1";
         return rle(countAndSay(n-1));
     }
+    //
 }
