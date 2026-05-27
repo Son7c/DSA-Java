@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Son7c/DSA-Java/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/Son7c/DSA-Java/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/Son7c/DSA-Java/tree/master/0567-permutation-in-string) |
+| [0686-repeated-string-match](https://github.com/Son7c/DSA-Java/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/Son7c/DSA-Java/tree/master/0796-rotate-string) |
 | [0981-time-based-key-value-store](https://github.com/Son7c/DSA-Java/tree/master/0981-time-based-key-value-store) |
 | [1021-remove-outermost-parentheses](https://github.com/Son7c/DSA-Java/tree/master/1021-remove-outermost-parentheses) |
@@ -682,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0686-repeated-string-match](https://github.com/Son7c/DSA-Java/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/Son7c/DSA-Java/tree/master/0796-rotate-string) |
 ## Backtracking
 |  |
