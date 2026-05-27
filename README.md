@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Son7c/DSA-Java/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Son7c/DSA-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Son7c/DSA-Java/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Son7c/DSA-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Son7c/DSA-Java/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Son7c/DSA-Java/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Son7c/DSA-Java/tree/master/0061-rotate-list) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Son7c/DSA-Java/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Son7c/DSA-Java/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Son7c/DSA-Java/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Son7c/DSA-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Son7c/DSA-Java/tree/master/0038-count-and-say) |
 | [0076-minimum-window-substring](https://github.com/Son7c/DSA-Java/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Son7c/DSA-Java/tree/master/0125-valid-palindrome) |
@@ -683,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Son7c/DSA-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/Son7c/DSA-Java/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/Son7c/DSA-Java/tree/master/0796-rotate-string) |
 ## Backtracking
