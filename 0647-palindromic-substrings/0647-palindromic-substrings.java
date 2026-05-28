@@ -1,21 +1,20 @@
 class Solution {
-    private boolean isPalindrome(String s,int i,int j){
-        while(i<=j){
-            if(s.charAt(i)!=s.charAt(j)) return false;
-            i++;
-            j--;
+    private int isPalindrome(String s,int left,int right){
+        int count=0;
+        while(left>=0 &&right<s.length() &&s.charAt(left)==s.charAt(right)){
+            count++;
+            right++;
+            left--;
         }
-        return true;
+        return count;
     }
     public int countSubstrings(String s) {
         int count=0;
         for(int i=0;i<s.length();i++){
-            for(int j=i;j<s.length();j++){
-                if(isPalindrome(s,i,j)) count++;
-            }
+            count+=isPalindrome(s,i,i);
+            count+=isPalindrome(s,i,i+1);
         }
+        
         return count;
     }
-
-    //0(n3)
 }
