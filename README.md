@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1706-min-cost-to-connect-all-points](https://github.com/Son7c/DSA-Java/tree/master/1706-min-cost-to-connect-all-points) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Son7c/DSA-Java/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Son7c/DSA-Java/tree/master/1914-cyclically-rotating-a-grid) |
+| [2013-detect-squares](https://github.com/Son7c/DSA-Java/tree/master/2013-detect-squares) |
 | [2058-concatenation-of-array](https://github.com/Son7c/DSA-Java/tree/master/2058-concatenation-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Son7c/DSA-Java/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Son7c/DSA-Java/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Son7c/DSA-Java/tree/master/0992-subarrays-with-k-different-integers) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Son7c/DSA-Java/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Son7c/DSA-Java/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2013-detect-squares](https://github.com/Son7c/DSA-Java/tree/master/2013-detect-squares) |
 ## Sorting
 |  |
 | ------- |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Son7c/DSA-Java/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Son7c/DSA-Java/tree/master/0992-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Son7c/DSA-Java/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2013-detect-squares](https://github.com/Son7c/DSA-Java/tree/master/2013-detect-squares) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -502,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/Son7c/DSA-Java/tree/master/0901-online-stock-span) |
 | [0981-time-based-key-value-store](https://github.com/Son7c/DSA-Java/tree/master/0981-time-based-key-value-store) |
 | [1472-design-browser-history](https://github.com/Son7c/DSA-Java/tree/master/1472-design-browser-history) |
+| [2013-detect-squares](https://github.com/Son7c/DSA-Java/tree/master/2013-detect-squares) |
 ## Linked List
 |  |
 | ------- |
@@ -561,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/Son7c/DSA-Java/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/Son7c/DSA-Java/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/Son7c/DSA-Java/tree/master/1472-design-browser-history) |
+| [2013-detect-squares](https://github.com/Son7c/DSA-Java/tree/master/2013-detect-squares) |
 ## Geometry
 |  |
 | ------- |
