@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Son7c/DSA-Java/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Son7c/DSA-Java/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Son7c/DSA-Java/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/Son7c/DSA-Java/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Son7c/DSA-Java/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Son7c/DSA-Java/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Son7c/DSA-Java/tree/master/0064-minimum-path-sum) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Son7c/DSA-Java/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/Son7c/DSA-Java/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Son7c/DSA-Java/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Son7c/DSA-Java/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Son7c/DSA-Java/tree/master/0215-kth-largest-element-in-an-array) |
@@ -597,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Son7c/DSA-Java/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Son7c/DSA-Java/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Son7c/DSA-Java/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Son7c/DSA-Java/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Son7c/DSA-Java/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Son7c/DSA-Java/tree/master/0064-minimum-path-sum) |
