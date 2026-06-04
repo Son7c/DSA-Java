@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/Son7c/DSA-Java/tree/master/1014-k-closest-points-to-origin) |
 | [1903-largest-odd-number-in-string](https://github.com/Son7c/DSA-Java/tree/master/1903-largest-odd-number-in-string) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Son7c/DSA-Java/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Son7c/DSA-Java/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -648,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/Son7c/DSA-Java/tree/master/1463-cherry-pickup-ii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Son7c/DSA-Java/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Son7c/DSA-Java/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Son7c/DSA-Java/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Shortest Path
 |  |
 | ------- |
@@ -750,4 +752,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Son7c/DSA-Java/tree/master/0146-lru-cache) |
 | [1472-design-browser-history](https://github.com/Son7c/DSA-Java/tree/master/1472-design-browser-history) |
+## Enumeration
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Son7c/DSA-Java/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
