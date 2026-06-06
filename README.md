@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Son7c/DSA-Java/tree/master/0416-partition-equal-subset-sum) |
 | [0463-island-perimeter](https://github.com/Son7c/DSA-Java/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Son7c/DSA-Java/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/Son7c/DSA-Java/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/Son7c/DSA-Java/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Son7c/DSA-Java/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Son7c/DSA-Java/tree/master/0503-next-greater-element-ii) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Son7c/DSA-Java/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Son7c/DSA-Java/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/Son7c/DSA-Java/tree/master/0374-guess-number-higher-or-lower) |
+| [0493-reverse-pairs](https://github.com/Son7c/DSA-Java/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Son7c/DSA-Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Son7c/DSA-Java/tree/master/0704-binary-search) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Son7c/DSA-Java/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Son7c/DSA-Java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Son7c/DSA-Java/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Son7c/DSA-Java/tree/master/0347-top-k-frequent-elements) |
+| [0493-reverse-pairs](https://github.com/Son7c/DSA-Java/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/Son7c/DSA-Java/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/Son7c/DSA-Java/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Son7c/DSA-Java/tree/master/1014-k-closest-points-to-origin) |
@@ -453,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Son7c/DSA-Java/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Son7c/DSA-Java/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/Son7c/DSA-Java/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/Son7c/DSA-Java/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/Son7c/DSA-Java/tree/master/0948-sort-an-array) |
 ## Bucket Sort
@@ -756,4 +760,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Son7c/DSA-Java/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Son7c/DSA-Java/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Son7c/DSA-Java/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Son7c/DSA-Java/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
