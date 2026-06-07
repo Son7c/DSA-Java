@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Son7c/DSA-Java/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Son7c/DSA-Java/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Son7c/DSA-Java/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Son7c/DSA-Java/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Son7c/DSA-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Son7c/DSA-Java/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Son7c/DSA-Java/tree/master/0031-next-permutation) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Son7c/DSA-Java/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Son7c/DSA-Java/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Son7c/DSA-Java/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Son7c/DSA-Java/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Son7c/DSA-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Son7c/DSA-Java/tree/master/0027-remove-element) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Son7c/DSA-Java/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Son7c/DSA-Java/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Son7c/DSA-Java/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Son7c/DSA-Java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Son7c/DSA-Java/tree/master/0088-merge-sorted-array) |
