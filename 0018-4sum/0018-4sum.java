@@ -16,7 +16,7 @@ class Solution {
 
         for (int i = idx; i < nums.length - 2; i++) {
             res.add(nums[i]);
-            twoSum(i + 1, nums, (long) target - nums[i], res, list);
+            twoSum(i + 1, nums, target - nums[i], res, list);
             res.remove(res.size() - 1);
         }
     }
