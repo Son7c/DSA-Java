@@ -6,15 +6,14 @@ class Solution {
         }
         int ans=0;
         for(int i:set){
-            int curr=i;
-            int count=1;
             if(!set.contains(i-1)){
-                while(set.contains(curr+1)){
-                    curr++;
+                int count=1;
+                while(set.contains(i+1)){
+                    i++;
                     count++;
                 }
+                ans=Math.max(ans,count);
             }
-            ans=Math.max(ans,count);
         }
         return ans;
     }
