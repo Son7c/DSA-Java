@@ -10,59 +10,53 @@
  */
 class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
-        int carry=0;
-        ListNode head=new ListNode((l1.val+l2.val)%10);
-        ListNode temp=head;
-        carry=(l1.val+l2.val)/10;
-        l1=l1.next;
-        l2=l2.next;
+        ListNode temp=new ListNode(-1);
+        ListNode head=temp;
+        int carry=0,sum=0;
         while(l1!=null&&l2!=null){
-            int sum=l1.val+l2.val+carry;
-            if(sum>9){
-                carry=sum/10;
-                temp.next=new ListNode(sum%10);
+            sum=l1.val+l2.val;
+            int val=sum+carry;
+            if(val<10){
+                temp.next=new ListNode(val);
                 temp=temp.next;
-                l1=l1.next;
-                l2=l2.next;
-            }
-            else{
-                temp.next=new ListNode(sum);
-                temp=temp.next;
-                l1=l1.next;
-                l2=l2.next;
                 carry=0;
+            }else{
+                temp.next=new ListNode(val%10);
+                carry=val/10;
+                temp=temp.next;
             }
+            l1=l1.next;
+            l2=l2.next;
         }
         while(l1!=null){
-            int sum=l1.val+carry;
-            if(sum>9){
-                temp.next=new ListNode(sum%10);
+            int val=l1.val+carry;
+            if(val<10){
+                temp.next=new ListNode(val);
                 temp=temp.next;
-                l1=l1.next;
-            }else{
-                temp.next=new ListNode(sum);
-                temp=temp.next;
-                l1=l1.next;
                 carry=0;
+                
+            }else{
+                temp.next=new ListNode(val%10);
+                carry=val/10;
+                temp=temp.next;
             }
+            l1=l1.next;
         }
         while(l2!=null){
-            int sum=l2.val+carry;
-            if(sum>9){
-                temp.next=new ListNode(sum%10);
+            int val=l2.val+carry;
+            if(val<10){
+                temp.next=new ListNode(val);
                 temp=temp.next;
-                l2=l2.next;
-            }else{
-                temp.next=new ListNode(sum);
-                temp=temp.next;
-                l2=l2.next;
                 carry=0;
+                
+            }else{
+                temp.next=new ListNode(val%10);
+                carry=val/10;
+                temp=temp.next;
             }
+            l2=l2.next;
         }
-        if(carry>0){
-            temp.next=new ListNode(carry);
-            temp=temp.next;
-        }
-        return head;
+        if(carry>0) temp.next=new ListNode(1);
+        return head.next;
     }
 }
