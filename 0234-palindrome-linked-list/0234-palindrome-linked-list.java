@@ -18,20 +18,18 @@ class Solution {
         return newHead;
     }
     public boolean isPalindrome(ListNode head) {
-        ListNode slow=head;
-        ListNode fast=head;
-        while(fast.next!=null&&fast.next.next!=null){
+        if(head.next==null) return true;
+        ListNode slow=head,fast=head.next,temp=null;
+        while(fast!=null&&fast.next!=null){
             slow=slow.next;
             fast=fast.next.next;
         }
-        ListNode revHead=revLL(slow.next);
+        temp=revLL(slow.next);
         slow.next=null;
-        slow=head;
-        fast=revHead;
-        while(slow!=null&&fast!=null){
-            if(slow.val!=fast.val) return false;
-            slow=slow.next;
-            fast=fast.next;
+        while(head!=null&&temp!=null){
+            if(head.val!=temp.val) return false;
+            head=head.next;
+            temp=temp.next;
         }
         return true;
     }
