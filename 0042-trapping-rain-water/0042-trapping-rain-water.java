@@ -1,35 +1,45 @@
 class Solution {
     public int trap(int[] height) {
         int n=height.length;
+        if(n<=2) return 0;
+        Stack<Integer> st=new Stack<>();
         int[] nge=new int[n];
-        int[] lge=new int[n];
+        int[] pge=new int[n];
         nge[n-1]=-1;
-        int max=height[n-1];
+        st.push(n-1);
         for(int i=n-2;i>=0;i--){
-            if(height[i]>=max){
+            while(!st.isEmpty()&&height[st.peek()]<=height[i]) st.pop();
+            if(st.isEmpty()){
                 nge[i]=-1;
-                max=height[i];
-            }else{
-                nge[i]=max;
+                st.push(i);
+                continue;
             }
+            if(height[st.peek()]>height[i]&&nge[st.peek()]!=-1) nge[i]=nge[st.peek()];
+            else nge[i]=st.peek();
+            st.push(i);
         }
-        lge[0]=-1;
-        max=height[0];
+        st.clear();
+        pge[0]=-1;
+        st.push(0);
         for(int i=1;i<n;i++){
-            if(height[i]>=max){
-                lge[i]=-1;
-                max=height[i];
-            }else{
-                lge[i]=max;
+            while(!st.isEmpty()&&height[st.peek()]<=height[i]) st.pop();
+            if(st.isEmpty()){
+                pge[i]=-1;
+                st.push(i);
+                continue;
             }
+            if(height[st.peek()]>height[i]&&pge[st.peek()]!=-1) pge[i]=pge[st.peek()];
+            else pge[i]=st.peek();
+            st.push(i);
         }
         int ans=0;
         for(int i=0;i<n;i++){
-            if(lge[i]==-1||nge[i]==-1) continue;
-            else{
-                int y=Math.min(nge[i],lge[i]);
-                ans+=y-height[i];
+            if(nge[i]==-1||pge[i]==-1){
+                ans+=0;
+                continue;
             }
+            int waterLevel=Math.min(height[nge[i]],height[pge[i]]);
+            ans+=waterLevel-height[i];
         }
         return ans;
     }
