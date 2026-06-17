@@ -1,21 +1,40 @@
 class Solution {
-    public void h(int idx,List<List<Integer>> res,List<Integer> path,int[] nums,int target){
-        if(target==0){
-            res.add(new ArrayList<>(path));
+    void f(int i, int target, int[] nums, List<Integer> path, List<List<Integer>> list, Set<List<Integer>> set) {
+        if (target == 0) {
+            List<Integer> temp = new ArrayList<>(path);
+            if (!set.contains(temp)) {
+                list.add(temp);
+                set.add(temp);
+            }
             return;
         }
-        for(int i=idx;i<nums.length;i++){
-            if(nums[i]>target) break;
+        if (i == 0) {
+            if (target%nums[0] == 0) {
+                path.add(nums[i]);
+                f(i, target - nums[i], nums, path, list, set);
+                path.remove(path.size()-1);
+            } else {
+                return;
+            }
+        }
+        if (i < 0)
+            return;
+        //notPick
+        f(i - 1, target, nums, path, list, set);
+        //pick
+        if (nums[i] <= target) {
             path.add(nums[i]);
-            h(i,res,path,nums,target-nums[i]);
-            path.remove(path.size()-1);
+            f(i, target - nums[i], nums, path, list, set);
+            path.remove(path.size() - 1);
         }
     }
-    public List<List<Integer>> combinationSum(int[] nums, int target) {
-        List<List<Integer>> res=new ArrayList<>();
-        List<Integer> path=new ArrayList<>();
-        Arrays.sort(nums);
-        h(0,res,path,nums,target);
-        return res;
+
+    public List<List<Integer>> combinationSum(int[] candidates, int target) {
+        List<Integer> path = new ArrayList<>();
+        List<List<Integer>> list = new ArrayList<>();
+        Set<List<Integer>> set = new HashSet<>();
+        Arrays.sort(candidates);
+        f(candidates.length - 1, target, candidates, path, list, set);
+        return list;
     }
 }
