@@ -1,27 +1,27 @@
 class Solution {
-    public List<List<String>> partition(String s) {
-        List<List<String>> res=new ArrayList<>();
-        List<String> path=new ArrayList<>();
-        h(0,s,res,path);
-        return res;
-    }
-    public void h(int idx,String s,List<List<String>> res,List<String> path){
-        if(idx==s.length()){
-            res.add(new ArrayList<>(path));
-            return;
+    boolean check(String s,int l,int r){
+        int left=l,right=r;
+        while(left<right){
+            if(s.charAt(left)!=s.charAt(right)) return false;
+            left++;
+            right--;
         }
-        for(int i=idx;i<s.length();i++){
-            if(isPalindrome(s,idx,i)){
-                path.add(s.substring(idx,i+1));
-                h(i+1,s,res,path);
+        return true;
+    }
+    void f(int i,String s,List<String> path,List<List<String>> res){
+        if(i==s.length()) res.add(new ArrayList<>(path));
+        for(int j=i;j<s.length();j++){
+            if(check(s,i,j)){
+                path.add(s.substring(i,j+1));
+                f(j+1,s,path,res);
                 path.remove(path.size()-1);
             }
         }
     }
-    public boolean isPalindrome(String s,int left,int right){
-        while(left<=right){
-            if(s.charAt(left++)!=s.charAt(right--)) return false;
-        }
-        return true;
+    public List<List<String>> partition(String s) {
+        List<List<String>> res=new ArrayList<>();
+        List<String> path=new ArrayList<>();
+        f(0,s,path,res);
+        return res;
     }
 }
