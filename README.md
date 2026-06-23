@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Son7c/DSA-Java/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Son7c/DSA-Java/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Son7c/DSA-Java/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/Son7c/DSA-Java/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/Son7c/DSA-Java/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/Son7c/DSA-Java/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/Son7c/DSA-Java/tree/master/0567-permutation-in-string) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Son7c/DSA-Java/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Son7c/DSA-Java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Son7c/DSA-Java/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/Son7c/DSA-Java/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Son7c/DSA-Java/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Son7c/DSA-Java/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Son7c/DSA-Java/tree/master/0451-sort-characters-by-frequency) |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Son7c/DSA-Java/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Son7c/DSA-Java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Son7c/DSA-Java/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/Son7c/DSA-Java/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Son7c/DSA-Java/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Son7c/DSA-Java/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Son7c/DSA-Java/tree/master/0621-task-scheduler) |
@@ -556,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Son7c/DSA-Java/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Son7c/DSA-Java/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Son7c/DSA-Java/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/Son7c/DSA-Java/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Son7c/DSA-Java/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0817-design-hashmap](https://github.com/Son7c/DSA-Java/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/Son7c/DSA-Java/tree/master/0860-design-circular-queue) |
@@ -621,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Son7c/DSA-Java/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Son7c/DSA-Java/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/Son7c/DSA-Java/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/Son7c/DSA-Java/tree/master/1472-design-browser-history) |
