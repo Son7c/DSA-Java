@@ -12,14 +12,11 @@ class MinStack {
     }
     
     public void push(int value) {
-        if(st.isEmpty()||st.peek().min>=value){
+        if(st.isEmpty()){
             st.push(new Pair(value,value));
-            return;
-        }
-        if(st.peek().min<value){
+        }else{
             Pair prev=st.peek();
-            st.push(new Pair(value,prev.min));
-            return;
+            st.push(new Pair(value,Math.min(prev.min,value)));
         }
     }
     
