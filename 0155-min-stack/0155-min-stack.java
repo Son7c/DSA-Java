@@ -17,7 +17,8 @@ class MinStack {
             return;
         }
         if(st.peek().min<value){
-            st.push(new Pair(value,st.peek().min));
+            Pair prev=st.peek();
+            st.push(new Pair(value,prev.min));
             return;
         }
     }
