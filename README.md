@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Son7c/DSA-Java/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Son7c/DSA-Java/tree/master/0733-flood-fill) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Son7c/DSA-Java/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0994-rotting-oranges](https://github.com/Son7c/DSA-Java/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/Son7c/DSA-Java/tree/master/1036-rotting-oranges) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Son7c/DSA-Java/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/Son7c/DSA-Java/tree/master/0931-minimum-falling-path-sum) |
 | [0948-sort-an-array](https://github.com/Son7c/DSA-Java/tree/master/0948-sort-an-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Son7c/DSA-Java/tree/master/0992-subarrays-with-k-different-integers) |
+| [0994-rotting-oranges](https://github.com/Son7c/DSA-Java/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Son7c/DSA-Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Son7c/DSA-Java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1014-k-closest-points-to-origin](https://github.com/Son7c/DSA-Java/tree/master/1014-k-closest-points-to-origin) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Son7c/DSA-Java/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Son7c/DSA-Java/tree/master/0733-flood-fill) |
 | [0931-minimum-falling-path-sum](https://github.com/Son7c/DSA-Java/tree/master/0931-minimum-falling-path-sum) |
+| [0994-rotting-oranges](https://github.com/Son7c/DSA-Java/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/Son7c/DSA-Java/tree/master/1036-rotting-oranges) |
 | [1463-cherry-pickup-ii](https://github.com/Son7c/DSA-Java/tree/master/1463-cherry-pickup-ii) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Son7c/DSA-Java/tree/master/1914-cyclically-rotating-a-grid) |
