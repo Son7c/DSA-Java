@@ -1,19 +1,13 @@
 class Solution {
     public String reverseWords(String s) {
-        String []arr=s.trim().split("\\s+");
-        Stack <String> st=new Stack<>();
-        for(String str:arr){
-            if(!str.equals(" ")||!str.equals("")){
-                st.push(str);
-            }
-        }
-        System.out.println(st);
+        s=s.trim();
+        String[] arr=s.split(" ");
         StringBuilder sb=new StringBuilder();
-        while(!st.isEmpty()){
-            sb.append(st.pop());
+        for(int i=arr.length-1;i>=0;i--){
+            if(arr[i].equals("")) continue;
+            sb.append(arr[i]);
             sb.append(" ");
         }
-        sb.deleteCharAt(sb.length()-1);
-        return sb.toString();
+        return sb.toString().trim();
     }
 }
