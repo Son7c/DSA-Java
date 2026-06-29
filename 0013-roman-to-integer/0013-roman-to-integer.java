@@ -20,22 +20,21 @@ class Solution {
         }
     }
     public int romanToInt(String s) {
-        int ans=0,i=0;
-        while(i<s.length()){
-            if(i!=s.length()-1&&s.charAt(i)=='I'&&(s.charAt(i+1)=='V'||s.charAt(i+1)=='X')){
-                ans+=val(s.charAt(i+1))-1;
-                i+=2;
-            }else if(i!=s.length()-1&&s.charAt(i)=='X'&&(s.charAt(i+1)=='L'||s.charAt(i+1)=='C')){
-                ans+=val(s.charAt(i+1))-10;
-                i+=2;
-            }
-            else if(i!=s.length()-1&&s.charAt(i)=='C'&&(s.charAt(i+1)=='D'||s.charAt(i+1)=='M')){
-                ans+=val(s.charAt(i+1))-100;
-                i+=2;
-            }
-            else{
-                ans+=val(s.charAt(i));
+        int ans=0;
+        int n=s.length();
+        for(int i=0;i<n;i++){
+            char ch=s.charAt(i);
+            if(i<n-1&&((ch=='I'&&s.charAt(i+1)=='V')||(ch=='I'&&s.charAt(i+1)=='X'))){
+                ans+=val(s.charAt(i+1))-val(ch);
                 i++;
+            }else if(i<n-1&&((ch=='X'&&s.charAt(i+1)=='L')||(ch=='X'&&s.charAt(i+1)=='C'))){
+                ans+=val(s.charAt(i+1))-val(ch);
+                i++;
+            }else if(i<n-1&&((ch=='C'&&s.charAt(i+1)=='D')||(ch=='C'&&s.charAt(i+1)=='M'))){
+                ans+=val(s.charAt(i+1))-val(ch);
+                i++;
+            }else{
+                ans+=val(ch);
             }
         }
         return ans;
