@@ -1,24 +1,31 @@
 class Solution {
-    public int expand(String s, int left, int right) {
-        while (left >= 0 && right < s.length() && s.charAt(left) == s.charAt(right)) {
+    String ans="";
+    public void checkOdd(int i,String s){
+        int left=i,right=i;
+        while(left>=0&&right<s.length()&&s.charAt(left)==s.charAt(right)){
             left--;
             right++;
         }
-        return right - left - 1;
-    }
-
-    public String longestPalindrome(String s) {
-        String res = "";
-        int maxi = 0, start = 0, end = 0;
-        for (int i = 0; i < s.length(); i++) {
-            int odd = expand(s, i, i);
-            int even = expand(s, i, i + 1);
-            maxi = Math.max(odd, even);
-            if (maxi > end - start) {
-                start = i - (maxi - 1) / 2;
-                end = i + maxi / 2;
-            }
+        if(ans.length()<right-left-1){
+            ans=s.substring(left+1,right);
         }
-        return s.substring(start, end + 1);
+    }
+    public void checkEven(int i,String s){
+        int left=i,right=i+1;
+        while(left>=0&&right<s.length()&&s.charAt(left)==s.charAt(right)){
+            left--;
+            right++;
+        }
+        if(ans.length()<right-left-1){
+            ans=s.substring(left+1,right);
+        }
+    }
+    public String longestPalindrome(String s) {
+        for(int i=0;i<s.length();i++){
+            checkEven(i,s);
+            checkOdd(i,s);
+        }
+        if(ans.length()==0) ans+=s.charAt(0);
+        return ans;
     }
 }
