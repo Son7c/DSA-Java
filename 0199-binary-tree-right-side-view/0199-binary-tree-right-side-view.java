@@ -14,20 +14,21 @@
  * }
  */
 class Solution {
-    public int level(TreeNode root,HashMap<Integer,Integer> hm,int lv){
-        if(root==null) return 0;
-        hm.put(lv,root.val);
-        int lh=level(root.left,hm,lv+1);
-        int rh=level(root.right,hm,lv+1);
-        return 1+Math.max(lh,rh);
+    private void inorder(TreeNode root,int lv, HashMap<Integer, Integer> map) {
+        if(root==null) return;
+        inorder(root.left,lv+1,map);
+        map.put(lv,root.val);
+        inorder(root.right,lv+1,map);
     }
+
     public List<Integer> rightSideView(TreeNode root) {
-        List<Integer> list=new ArrayList<>();
-        HashMap<Integer,Integer> hm=new HashMap<>();
-        int level=1;
-        level=level(root,hm,1);
-        for(int i=1;i<=level;i++){
-            list.add(hm.get(i));
+        int level = 0;
+        TreeNode temp = root;
+        List<Integer> list = new ArrayList<>();
+        HashMap<Integer, Integer> map = new HashMap<>();
+        inorder(root,0, map);
+        for(int i:map.keySet()){
+            list.add(map.get(i));
         }
         return list;
     }
