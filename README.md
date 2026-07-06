@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Son7c/DSA-Java/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Son7c/DSA-Java/tree/master/0700-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Son7c/DSA-Java/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Son7c/DSA-Java/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Son7c/DSA-Java/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Son7c/DSA-Java/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Son7c/DSA-Java/tree/master/0733-flood-fill) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Son7c/DSA-Java/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Son7c/DSA-Java/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1300-critical-connections-in-a-network](https://github.com/Son7c/DSA-Java/tree/master/1300-critical-connections-in-a-network) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Son7c/DSA-Java/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Son7c/DSA-Java/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Son7c/DSA-Java/tree/master/0733-flood-fill) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Son7c/DSA-Java/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Son7c/DSA-Java/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Son7c/DSA-Java/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/Son7c/DSA-Java/tree/master/1036-rotting-oranges) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Son7c/DSA-Java/tree/master/2121-find-if-path-exists-in-graph) |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Son7c/DSA-Java/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Son7c/DSA-Java/tree/master/0700-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Son7c/DSA-Java/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Son7c/DSA-Java/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Son7c/DSA-Java/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Array
 |  |
@@ -398,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/Son7c/DSA-Java/tree/master/0817-design-hashmap) |
 | [0904-fruit-into-baskets](https://github.com/Son7c/DSA-Java/tree/master/0904-fruit-into-baskets) |
 | [0981-time-based-key-value-store](https://github.com/Son7c/DSA-Java/tree/master/0981-time-based-key-value-store) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Son7c/DSA-Java/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Son7c/DSA-Java/tree/master/0992-subarrays-with-k-different-integers) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Son7c/DSA-Java/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Son7c/DSA-Java/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -427,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Son7c/DSA-Java/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/Son7c/DSA-Java/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/Son7c/DSA-Java/tree/master/0948-sort-an-array) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Son7c/DSA-Java/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1014-k-closest-points-to-origin](https://github.com/Son7c/DSA-Java/tree/master/1014-k-closest-points-to-origin) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Son7c/DSA-Java/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Son7c/DSA-Java/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
