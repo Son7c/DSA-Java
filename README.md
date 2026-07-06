@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Son7c/DSA-Java/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Son7c/DSA-Java/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Son7c/DSA-Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Son7c/DSA-Java/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Son7c/DSA-Java/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Son7c/DSA-Java/tree/master/0700-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Son7c/DSA-Java/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Son7c/DSA-Java/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Son7c/DSA-Java/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Son7c/DSA-Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Son7c/DSA-Java/tree/master/0257-binary-tree-paths) |
 | [0463-island-perimeter](https://github.com/Son7c/DSA-Java/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/Son7c/DSA-Java/tree/master/0543-diameter-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Son7c/DSA-Java/tree/master/0684-redundant-connection) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Son7c/DSA-Java/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Son7c/DSA-Java/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Son7c/DSA-Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Son7c/DSA-Java/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Son7c/DSA-Java/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Son7c/DSA-Java/tree/master/0700-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Son7c/DSA-Java/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/Son7c/DSA-Java/tree/master/0165-compare-version-numbers) |
 | [0224-basic-calculator](https://github.com/Son7c/DSA-Java/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Son7c/DSA-Java/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Son7c/DSA-Java/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/Son7c/DSA-Java/tree/master/0282-expression-add-operators) |
 | [0344-reverse-string](https://github.com/Son7c/DSA-Java/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Son7c/DSA-Java/tree/master/0389-find-the-difference) |
@@ -799,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Son7c/DSA-Java/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Son7c/DSA-Java/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Son7c/DSA-Java/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/Son7c/DSA-Java/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/Son7c/DSA-Java/tree/master/0282-expression-add-operators) |
 | [0494-target-sum](https://github.com/Son7c/DSA-Java/tree/master/0494-target-sum) |
 ## Rolling Hash
