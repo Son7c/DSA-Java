@@ -14,31 +14,16 @@
  * }
  */
 class Solution {
-    public void f(TreeNode root,List<Integer> path,List<List<Integer>> res){
-        if(root==null) return;
-        path.add(root.val);
+    public void f(TreeNode root,String path,List<String> ans){
         if(root.left==null&&root.right==null){
-            res.add(new ArrayList<>(path));
-        }else{
-            f(root.left,path,res);
-            f(root.right,path,res);
+            ans.add(path);
         }
-        path.remove(path.size()-1);
+        if(root.left!=null) f(root.left,path+"->"+root.left.val,ans);
+        if(root.right!=null) f(root.right,path+"->"+root.right.val,ans);
     }
     public List<String> binaryTreePaths(TreeNode root) {
         List<String> ans=new ArrayList<>();
-        List<Integer> path=new ArrayList<>();
-        List<List<Integer>> res=new ArrayList<>();
-        f(root,path,res);
-        for(int i=0;i<res.size();i++){
-            StringBuilder sb=new StringBuilder();
-            for(int j=0;j<res.get(i).size();j++){
-                sb.append(res.get(i).get(j));
-                sb.append("->");
-            }
-            sb.delete(sb.length()-2, sb.length());
-            ans.add(sb.toString());
-        }
+        f(root,root.val+"",ans);
         return ans;
     }
 }
