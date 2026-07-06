@@ -13,36 +13,26 @@
  *     }
  * }
  */
-
- class Pair{
-    int r;
-    TreeNode node;
-    public Pair(int x,TreeNode n){
-        this.node=n;
-        this.r=x;
-    }
- }
 class Solution {
     public List<List<Integer>> levelOrder(TreeNode root) {
         if(root==null) return new ArrayList<>();
-        TreeMap<Integer,List<Integer>> map=new TreeMap<>();
-        Queue<Pair> q=new LinkedList<>();
+        Queue<TreeNode> q=new LinkedList<>();
         List<List<Integer>> ans=new ArrayList<>();
-        q.offer(new Pair(0,root));
+        List<Integer> list=new ArrayList<>();
+        q.offer(root);
+        q.offer(null);
         while(!q.isEmpty()){
-            Pair p=q.poll();
-            TreeNode n=p.node;
-            int row=p.r;
-            if(map.containsKey(row)){
-                map.get(row).add(n.val);
+            TreeNode cur=q.poll();
+            if(cur==null){
+                ans.add(new ArrayList<>(list));
+                list.clear();
+                if(q.isEmpty()) break;
+                q.offer(null);
             }else{
-                map.put(row, new ArrayList<>(Arrays.asList(n.val)));   
+                list.add(cur.val);
+                if(cur.left!=null) q.offer(cur.left);
+                if(cur.right!=null) q.offer(cur.right);
             }
-            if(n.left!=null) q.offer(new Pair(row+1,n.left));
-            if(n.right!=null) q.offer(new Pair(row+1,n.right));
-        }
-        for(int i:map.keySet()){
-            ans.add(map.get(i));
         }
         return ans;
     }
