@@ -14,17 +14,10 @@
  * }
  */
 class Solution {
-    TreeNode ans=null;
-    public void inorder(TreeNode root,int val){
-        if(root==null) return;
-        inorder(root.left,val);
-        if(root.val==val){
-            ans=root;
-        }
-        inorder(root.right,val);
-    }
     public TreeNode searchBST(TreeNode root, int val) {
-        inorder(root,val);
-        return ans;
+        if(root==null) return null;
+        if(root.val==val) return root;
+        if(root.val>val) return searchBST(root.left,val);
+        else return searchBST(root.right,val);
     }
 }
