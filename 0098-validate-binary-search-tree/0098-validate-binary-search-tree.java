@@ -22,7 +22,6 @@ class Solution {
         return l&&r;
     }
     public boolean isValidBST(TreeNode root) {
-        if(root.left==null&&root.right==null) return true;
         return check(root,Long.MIN_VALUE,Long.MAX_VALUE);
     }
 }
