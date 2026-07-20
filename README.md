@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Son7c/DSA-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1463-cherry-pickup-ii](https://github.com/Son7c/DSA-Java/tree/master/1463-cherry-pickup-ii) |
 | [1472-design-browser-history](https://github.com/Son7c/DSA-Java/tree/master/1472-design-browser-history) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Son7c/DSA-Java/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Son7c/DSA-Java/tree/master/1706-min-cost-to-connect-all-points) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Son7c/DSA-Java/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Son7c/DSA-Java/tree/master/1914-cyclically-rotating-a-grid) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/Son7c/DSA-Java/tree/master/0981-time-based-key-value-store) |
 | [1004-max-consecutive-ones-iii](https://github.com/Son7c/DSA-Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Son7c/DSA-Java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Son7c/DSA-Java/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Son7c/DSA-Java/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Son7c/DSA-Java/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Math
