@@ -1,32 +1,34 @@
 class Solution {
-    public int shipWithinDays(int[] weights, int days) {
-        int max1=Integer.MIN_VALUE,max2=0;
-        for(int i=0;i<weights.length;i++){
-            max1=Math.max(max1,weights[i]);
-        }
-        for(int i=0;i<weights.length;i++){
-            max2+=weights[i];
-        }
-        int left=max1,right=max2;
-        while(left<=right){
-            int mid=left+((right-left)/2);
-            if(load(weights,mid)>days){
-                left=mid+1;
-            }else{
-                right=mid-1;
+    public int find(int[] nums, int mid){
+        int c=0,x=0;
+        for(int i=0;i<nums.length;i++){
+            if(nums[i]>mid) return -1;
+            c+=nums[i];
+            if(i==nums.length-1){
+                if(c>mid) x++;
+                if(c<=mid) x++;
+            }
+            if(c>mid){
+                c=nums[i];
+                x++;
             }
         }
-        return left;
+        return x;
     }
-    public int load(int[] weights,int weight){
-        int count=0,sum=0;
-        for(int i=0;i<weights.length;i++){
-            sum+=weights[i];
-            if(sum>weight){
-                count++;
-                sum=weights[i];
+    public int shipWithinDays(int[] weights, int days) {
+        int lp=1,rp=0;
+        for(int i:weights){
+            rp+=i;
+        }
+        while(lp<=rp){
+            int mid=(lp+(rp-lp)/2);
+            int val=find(weights,mid);
+            if(val!=-1&&val<=days){
+                rp=mid-1;
+            }else{
+                lp=mid+1;
             }
         }
-        return count+1;
+        return lp;
     }
 }
