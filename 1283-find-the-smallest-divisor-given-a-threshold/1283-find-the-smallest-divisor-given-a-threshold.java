@@ -2,7 +2,8 @@ class Solution {
     public int find(int[] nums,int mid){
         int val=0;
         for(int i=0;i<nums.length;i++){
-            val+=(int)Math.ceil((double)((double) nums[i]/(double)mid));
+            // val+=(int)Math.ceil((double)((double) nums[i]/(double)mid));
+            val+=(nums[i]+mid-1)/mid;
         }
         return val;
     }
