@@ -14,7 +14,6 @@ class Solution {
         while(left<=right){
             int mid=(left+(right-left)/2);
             int val=find(nums,mid);
-            System.out.println(val);
             if(val<=th){
                 right=mid-1;
                 ans=mid;
