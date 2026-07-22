@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Son7c/DSA-Java/tree/master/0347-top-k-frequent-elements) |
 | [0396-rotate-function](https://github.com/Son7c/DSA-Java/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/Son7c/DSA-Java/tree/master/0403-frog-jump) |
+| [0410-split-array-largest-sum](https://github.com/Son7c/DSA-Java/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Son7c/DSA-Java/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Son7c/DSA-Java/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Son7c/DSA-Java/tree/master/0463-island-perimeter) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Son7c/DSA-Java/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Son7c/DSA-Java/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/Son7c/DSA-Java/tree/master/0374-guess-number-higher-or-lower) |
+| [0410-split-array-largest-sum](https://github.com/Son7c/DSA-Java/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Son7c/DSA-Java/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Son7c/DSA-Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Son7c/DSA-Java/tree/master/0704-binary-search) |
@@ -746,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Son7c/DSA-Java/tree/master/0338-counting-bits) |
 | [0396-rotate-function](https://github.com/Son7c/DSA-Java/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/Son7c/DSA-Java/tree/master/0403-frog-jump) |
+| [0410-split-array-largest-sum](https://github.com/Son7c/DSA-Java/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Son7c/DSA-Java/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Son7c/DSA-Java/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Son7c/DSA-Java/tree/master/0516-longest-palindromic-subsequence) |
@@ -817,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Son7c/DSA-Java/tree/master/0402-remove-k-digits) |
+| [0410-split-array-largest-sum](https://github.com/Son7c/DSA-Java/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Son7c/DSA-Java/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Son7c/DSA-Java/tree/master/0621-task-scheduler) |
 | [1903-largest-odd-number-in-string](https://github.com/Son7c/DSA-Java/tree/master/1903-largest-odd-number-in-string) |
@@ -838,6 +842,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Son7c/DSA-Java/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/Son7c/DSA-Java/tree/master/0410-split-array-largest-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Son7c/DSA-Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Son7c/DSA-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2574-left-and-right-sum-differences](https://github.com/Son7c/DSA-Java/tree/master/2574-left-and-right-sum-differences) |
