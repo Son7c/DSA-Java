@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/Son7c/DSA-Java/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Son7c/DSA-Java/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Son7c/DSA-Java/tree/master/2574-left-and-right-sum-differences) |
+| [2643-row-with-maximum-ones](https://github.com/Son7c/DSA-Java/tree/master/2643-row-with-maximum-ones) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Son7c/DSA-Java/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Son7c/DSA-Java/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Son7c/DSA-Java/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Son7c/DSA-Java/tree/master/1036-rotting-oranges) |
 | [1463-cherry-pickup-ii](https://github.com/Son7c/DSA-Java/tree/master/1463-cherry-pickup-ii) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Son7c/DSA-Java/tree/master/1914-cyclically-rotating-a-grid) |
+| [2643-row-with-maximum-ones](https://github.com/Son7c/DSA-Java/tree/master/2643-row-with-maximum-ones) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Son7c/DSA-Java/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Union Find
 |  |
