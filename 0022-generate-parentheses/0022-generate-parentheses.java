@@ -1,31 +1,19 @@
 class Solution {
-    public boolean isValid(StringBuilder sb){
-        Stack<Character> st=new Stack<>();
-        for(int i=0;i<sb.length();i++){
-            if(sb.charAt(i)=='(') st.push(')');
-            else{
-                if(st.isEmpty()) return false;
-                if(sb.charAt(i)!=st.pop()) return false;
-            }
-        }
-        return st.isEmpty();
-    }
-    public void f(StringBuilder sb,int n,List<String> list){
-        if(sb.length()==2*n){
-            if(isValid(sb)) list.add(sb.toString()); 
+    public void f(String res,int op,int cp,List<String> list,int n){
+        if(op==n&&cp==n){
+            list.add(res);
             return;
         }
-        sb.append('(');
-        f(sb,n,list);
-        sb.deleteCharAt(sb.length()-1);
-        sb.append(')');
-        f(sb,n,list);
-        sb.deleteCharAt(sb.length()-1);
+        if(op<n){
+            f(res+"(",op+1,cp,list,n);
+        }
+        if(cp<op){
+            f(res+")",op,cp+1,list,n);
+        }
     }
     public List<String> generateParenthesis(int n) {
-        StringBuilder sb=new StringBuilder();
         List<String> list=new ArrayList<>();
-        f(sb,n,list);
+        f("",0,0,list,n);
         return list;
     }
 }
