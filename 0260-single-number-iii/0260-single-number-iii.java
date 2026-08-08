@@ -1,14 +1,19 @@
 class Solution {
     public int[] singleNumber(int[] nums) {
-        HashMap<Integer,Integer> map=new HashMap<>();
+        int xor=0;
+        for(int i:nums) xor^=i;
+        int count=0;
+        while(true){
+            if((xor&1)==1) break;
+            xor=xor>>1;
+            count++;
+        }
+        int setBucket=0,unsetBucket=0;
         for(int i:nums){
-            map.put(i,map.getOrDefault(i,0)+1);
+            if((i>>count&1)==1) setBucket^=i;
+            else unsetBucket^=i;
         }
-        int[] ans=new int[2];
-        int idx=0;
-        for(int i:map.keySet()){
-            if(map.get(i)==1) ans[idx++]=i;
-        }
+        int[] ans=new int[]{setBucket,unsetBucket};
         return ans;
     }
 }
