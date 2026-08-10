@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Son7c/DSA-Java/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Son7c/DSA-Java/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Son7c/DSA-Java/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/Son7c/DSA-Java/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/Son7c/DSA-Java/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/Son7c/DSA-Java/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Son7c/DSA-Java/tree/master/0496-next-greater-element-i) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/Son7c/DSA-Java/tree/master/0282-expression-add-operators) |
 | [0319-bulb-switcher](https://github.com/Son7c/DSA-Java/tree/master/0319-bulb-switcher) |
 | [0396-rotate-function](https://github.com/Son7c/DSA-Java/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/Son7c/DSA-Java/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/Son7c/DSA-Java/tree/master/0788-rotated-digits) |
 | [1014-k-closest-points-to-origin](https://github.com/Son7c/DSA-Java/tree/master/1014-k-closest-points-to-origin) |
 | [1903-largest-odd-number-in-string](https://github.com/Son7c/DSA-Java/tree/master/1903-largest-odd-number-in-string) |
@@ -713,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Son7c/DSA-Java/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Son7c/DSA-Java/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Son7c/DSA-Java/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/Son7c/DSA-Java/tree/master/0486-predict-the-winner) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -781,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/Son7c/DSA-Java/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/Son7c/DSA-Java/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Son7c/DSA-Java/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/Son7c/DSA-Java/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Son7c/DSA-Java/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Son7c/DSA-Java/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Son7c/DSA-Java/tree/master/0518-coin-change-ii) |
@@ -933,4 +937,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Son7c/DSA-Java/tree/master/0139-word-break) |
+## Minimax
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Son7c/DSA-Java/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Son7c/DSA-Java/tree/master/0486-predict-the-winner) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Son7c/DSA-Java/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
