@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Son7c/DSA-Java/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Son7c/DSA-Java/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Son7c/DSA-Java/tree/master/3689-maximum-total-subarray-value-i) |
+| [3731-find-missing-elements](https://github.com/Son7c/DSA-Java/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/Son7c/DSA-Java/tree/master/3838-weighted-word-mapping) |
 | [3975-filter-occupied-intervals](https://github.com/Son7c/DSA-Java/tree/master/3975-filter-occupied-intervals) |
 ## Matrix
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Son7c/DSA-Java/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2013-detect-squares](https://github.com/Son7c/DSA-Java/tree/master/2013-detect-squares) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Son7c/DSA-Java/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3731-find-missing-elements](https://github.com/Son7c/DSA-Java/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Son7c/DSA-Java/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Son7c/DSA-Java/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Son7c/DSA-Java/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3731-find-missing-elements](https://github.com/Son7c/DSA-Java/tree/master/3731-find-missing-elements) |
 | [3975-filter-occupied-intervals](https://github.com/Son7c/DSA-Java/tree/master/3975-filter-occupied-intervals) |
 ## Simulation
 |  |
