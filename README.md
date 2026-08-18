@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Son7c/DSA-Java/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Son7c/DSA-Java/tree/master/0792-binary-search) |
 | [0817-design-hashmap](https://github.com/Son7c/DSA-Java/tree/master/0817-design-hashmap) |
+| [0846-hand-of-straights](https://github.com/Son7c/DSA-Java/tree/master/0846-hand-of-straights) |
 | [0860-design-circular-queue](https://github.com/Son7c/DSA-Java/tree/master/0860-design-circular-queue) |
 | [0875-koko-eating-bananas](https://github.com/Son7c/DSA-Java/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Son7c/DSA-Java/tree/master/0877-stone-game) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Son7c/DSA-Java/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/Son7c/DSA-Java/tree/master/0697-degree-of-an-array) |
 | [0817-design-hashmap](https://github.com/Son7c/DSA-Java/tree/master/0817-design-hashmap) |
+| [0846-hand-of-straights](https://github.com/Son7c/DSA-Java/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/Son7c/DSA-Java/tree/master/0904-fruit-into-baskets) |
 | [0981-time-based-key-value-store](https://github.com/Son7c/DSA-Java/tree/master/0981-time-based-key-value-store) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Son7c/DSA-Java/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Son7c/DSA-Java/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Son7c/DSA-Java/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Son7c/DSA-Java/tree/master/0645-set-mismatch) |
+| [0846-hand-of-straights](https://github.com/Son7c/DSA-Java/tree/master/0846-hand-of-straights) |
 | [0912-sort-an-array](https://github.com/Son7c/DSA-Java/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/Son7c/DSA-Java/tree/master/0948-sort-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Son7c/DSA-Java/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -874,6 +877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Son7c/DSA-Java/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Son7c/DSA-Java/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Son7c/DSA-Java/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/Son7c/DSA-Java/tree/master/0846-hand-of-straights) |
 | [1903-largest-odd-number-in-string](https://github.com/Son7c/DSA-Java/tree/master/1903-largest-odd-number-in-string) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Son7c/DSA-Java/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Son7c/DSA-Java/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
