@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Son7c/DSA-Java/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Son7c/DSA-Java/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Son7c/DSA-Java/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Son7c/DSA-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Son7c/DSA-Java/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Son7c/DSA-Java/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Son7c/DSA-Java/tree/master/0682-baseball-game) |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Son7c/DSA-Java/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Son7c/DSA-Java/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Son7c/DSA-Java/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/Son7c/DSA-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Son7c/DSA-Java/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Son7c/DSA-Java/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Son7c/DSA-Java/tree/master/0645-set-mismatch) |
@@ -903,6 +905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Son7c/DSA-Java/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/Son7c/DSA-Java/tree/master/0410-split-array-largest-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Son7c/DSA-Java/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Son7c/DSA-Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Son7c/DSA-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2574-left-and-right-sum-differences](https://github.com/Son7c/DSA-Java/tree/master/2574-left-and-right-sum-differences) |
