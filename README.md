@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Son7c/DSA-Java/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/Son7c/DSA-Java/tree/master/0907-sum-of-subarray-minimums) |
 | [0912-sort-an-array](https://github.com/Son7c/DSA-Java/tree/master/0912-sort-an-array) |
+| [0930-binary-subarrays-with-sum](https://github.com/Son7c/DSA-Java/tree/master/0930-binary-subarrays-with-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/Son7c/DSA-Java/tree/master/0931-minimum-falling-path-sum) |
 | [0948-sort-an-array](https://github.com/Son7c/DSA-Java/tree/master/0948-sort-an-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Son7c/DSA-Java/tree/master/0992-subarrays-with-k-different-integers) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/Son7c/DSA-Java/tree/master/0817-design-hashmap) |
 | [0846-hand-of-straights](https://github.com/Son7c/DSA-Java/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/Son7c/DSA-Java/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Son7c/DSA-Java/tree/master/0930-binary-subarrays-with-sum) |
 | [0981-time-based-key-value-store](https://github.com/Son7c/DSA-Java/tree/master/0981-time-based-key-value-store) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Son7c/DSA-Java/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Son7c/DSA-Java/tree/master/0992-subarrays-with-k-different-integers) |
@@ -864,6 +866,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Son7c/DSA-Java/tree/master/0567-permutation-in-string) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Son7c/DSA-Java/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0904-fruit-into-baskets](https://github.com/Son7c/DSA-Java/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Son7c/DSA-Java/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Son7c/DSA-Java/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Son7c/DSA-Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Son7c/DSA-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -906,6 +909,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Son7c/DSA-Java/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/Son7c/DSA-Java/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Son7c/DSA-Java/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/Son7c/DSA-Java/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Son7c/DSA-Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Son7c/DSA-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2574-left-and-right-sum-differences](https://github.com/Son7c/DSA-Java/tree/master/2574-left-and-right-sum-differences) |
