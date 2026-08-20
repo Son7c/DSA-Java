@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/Son7c/DSA-Java/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/Son7c/DSA-Java/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/Son7c/DSA-Java/tree/master/1127-last-stone-weight) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Son7c/DSA-Java/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Son7c/DSA-Java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Son7c/DSA-Java/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1406-stone-game-iii](https://github.com/Son7c/DSA-Java/tree/master/1406-stone-game-iii) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/Son7c/DSA-Java/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/Son7c/DSA-Java/tree/master/0877-stone-game) |
 | [1014-k-closest-points-to-origin](https://github.com/Son7c/DSA-Java/tree/master/1014-k-closest-points-to-origin) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Son7c/DSA-Java/tree/master/1248-count-number-of-nice-subarrays) |
 | [1406-stone-game-iii](https://github.com/Son7c/DSA-Java/tree/master/1406-stone-game-iii) |
 | [1903-largest-odd-number-in-string](https://github.com/Son7c/DSA-Java/tree/master/1903-largest-odd-number-in-string) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Son7c/DSA-Java/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Son7c/DSA-Java/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Son7c/DSA-Java/tree/master/0992-subarrays-with-k-different-integers) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Son7c/DSA-Java/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Son7c/DSA-Java/tree/master/1248-count-number-of-nice-subarrays) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Son7c/DSA-Java/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Son7c/DSA-Java/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2013-detect-squares](https://github.com/Son7c/DSA-Java/tree/master/2013-detect-squares) |
@@ -869,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Son7c/DSA-Java/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Son7c/DSA-Java/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Son7c/DSA-Java/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Son7c/DSA-Java/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Son7c/DSA-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Memoization
 |  |
@@ -911,6 +915,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Son7c/DSA-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Son7c/DSA-Java/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Son7c/DSA-Java/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Son7c/DSA-Java/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Son7c/DSA-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2574-left-and-right-sum-differences](https://github.com/Son7c/DSA-Java/tree/master/2574-left-and-right-sum-differences) |
 ## Combinatorics
