@@ -1,36 +1,32 @@
 class Solution {
-    public String minWindow(String s, String t) {
-        int left = 0, ans = Integer.MAX_VALUE, count = 0,start=0;
-        StringBuilder sb = new StringBuilder();
-        HashMap<Character, Integer> map = new HashMap<>();
-        for (int i = 0; i < t.length(); i++) {
-            char ch = t.charAt(i);
-            map.put(ch, map.getOrDefault(ch, 0) + 1);
+    public boolean check(int[] need,int[] freq){
+        for(int i=0;i<128;i++){
+            if(need[i]>freq[i]) return false;
         }
-        for (int right = 0; right < s.length(); right++) {
-            char ch = s.charAt(right);
-            if (map.containsKey(ch)) {
-                if(map.get(ch)>0){
-                    count++;
-                }
-                map.put(ch, map.get(ch) - 1);
-            }
-            while (count == t.length()) {
-                if (right - left + 1 < ans) {
-                    ans = right - left + 1;
+        return true;
+    }
+    public String minWindow(String s, String t) {
+        if(s.length()<t.length()) return "";
+        int[] need=new int[128];
+        for(int i=0;i<t.length();i++){
+            need[t.charAt(i)-'A']++;
+        }
+        int[] freq=new int[128];
+        int left=0,len=Integer.MAX_VALUE,n=s.length(),start=0;
+        for(int right=0;right<n;right++){
+            char c=s.charAt(right);
+            freq[c-'A']++;
+            //shrink from left
+            while(left<=right&&check(need,freq)){
+                char ch=s.charAt(left);
+                freq[ch-'A']--;
+                if(right-left+1<len){
+                    len=right-left+1;
                     start=left;
-                }
-                //Shrinking
-                if (map.containsKey(s.charAt(left))) {
-                    map.put(s.charAt(left), map.get(s.charAt(left)) + 1);
-                    if(map.get(s.charAt(left))>0){
-                        count--;
-                    }
                 }
                 left++;
             }
         }
-        return ans==Integer.MAX_VALUE?"":s.substring(start,start+ans);
-        //Time Complexity -> O(2N)=>O(N)
+        return len==Integer.MAX_VALUE?"":s.substring(start,start+len);
     }
 }
