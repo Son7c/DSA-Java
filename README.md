@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Son7c/DSA-Java/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Son7c/DSA-Java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Son7c/DSA-Java/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1331-rank-transform-of-an-array](https://github.com/Son7c/DSA-Java/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/Son7c/DSA-Java/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Son7c/DSA-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1463-cherry-pickup-ii](https://github.com/Son7c/DSA-Java/tree/master/1463-cherry-pickup-ii) |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Son7c/DSA-Java/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Son7c/DSA-Java/tree/master/1248-count-number-of-nice-subarrays) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Son7c/DSA-Java/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1331-rank-transform-of-an-array](https://github.com/Son7c/DSA-Java/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Son7c/DSA-Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Son7c/DSA-Java/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2013-detect-squares](https://github.com/Son7c/DSA-Java/tree/master/2013-detect-squares) |
@@ -532,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Son7c/DSA-Java/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1014-k-closest-points-to-origin](https://github.com/Son7c/DSA-Java/tree/master/1014-k-closest-points-to-origin) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Son7c/DSA-Java/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1331-rank-transform-of-an-array](https://github.com/Son7c/DSA-Java/tree/master/1331-rank-transform-of-an-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Son7c/DSA-Java/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Son7c/DSA-Java/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Son7c/DSA-Java/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
