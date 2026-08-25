@@ -9,44 +9,22 @@
  * }
  */
 class Solution {
-    public ListNode merge(ListNode tempA,ListNode tempB){
-        ListNode res=new ListNode(-1);
-        ListNode temp=res;
-        while(tempA!=null&&tempB!=null){
-            if(tempA.val<=tempB.val){
-                temp.next=tempA;
-                tempA=tempA.next;
-                temp=temp.next;
-            }else{
-                temp.next=tempB;
-                tempB=tempB.next;
-                temp=temp.next;
-            }
-        }
-        while(tempA!=null){
-            temp.next=tempA;
-            tempA=tempA.next;
-            temp=temp.next;
-        }
-        while(tempB!=null){
-            temp.next=tempB;
-            tempB=tempB.next;
-            temp=temp.next;
-        }
-        return res.next;
-    }
     public ListNode mergeKLists(ListNode[] lists) {
-        if(lists.length==0||(lists.length==1&&lists[0]==null)) return null;
-        if(lists.length==1) return lists[0];
-        ListNode sorted=null;
+        PriorityQueue<Integer> pq=new PriorityQueue<>();
         for(int i=0;i<lists.length;i++){
-            if(i==0){
-                sorted=merge(lists[i],lists[i+1]);
-                i=1;
-            }else{
-                sorted=merge(sorted,lists[i]);
+            ListNode temp=lists[i];
+            while(temp!=null){
+                pq.add(temp.val);
+                temp=temp.next;
             }
         }
-        return sorted;
+
+        ListNode temp=new ListNode(-1);
+        ListNode head=temp;
+        while(!pq.isEmpty()){
+            temp.next=new ListNode(pq.poll());
+            temp=temp.next;
+        }
+        return head.next;
     }
 }
