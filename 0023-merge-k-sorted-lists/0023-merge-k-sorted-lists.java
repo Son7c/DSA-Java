@@ -9,22 +9,34 @@
  * }
  */
 class Solution {
+    class Pair implements Comparable<Pair>{
+        int val;
+        ListNode node;
+        public Pair(int v,ListNode n){
+            val=v;
+            node=n;
+        }
+        public int compareTo(Pair p2){
+            return this.val-p2.val;
+        }
+    }
     public ListNode mergeKLists(ListNode[] lists) {
-        PriorityQueue<Integer> pq=new PriorityQueue<>();
+        PriorityQueue<Pair> pq=new PriorityQueue<>();
         for(int i=0;i<lists.length;i++){
-            ListNode temp=lists[i];
-            while(temp!=null){
-                pq.add(temp.val);
-                temp=temp.next;
+            if (lists[i] != null) {
+                pq.add(new Pair(lists[i].val, lists[i]));
             }
         }
-
-        ListNode temp=new ListNode(-1);
-        ListNode head=temp;
+        ListNode dummy=new ListNode(-1);
+        ListNode temp=dummy;
         while(!pq.isEmpty()){
-            temp.next=new ListNode(pq.poll());
+            Pair p=pq.poll();
+            temp.next=p.node;
             temp=temp.next;
+            if(p.node.next!=null){
+                pq.add(new Pair(p.node.next.val,p.node.next));
+            }
         }
-        return head.next;
+        return dummy.next;
     }
 }
