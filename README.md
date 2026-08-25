@@ -999,4 +999,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Son7c/DSA-Java/tree/master/0084-largest-rectangle-in-histogram) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Son7c/DSA-Java/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
