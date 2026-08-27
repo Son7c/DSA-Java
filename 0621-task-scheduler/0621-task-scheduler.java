@@ -4,13 +4,14 @@ class Solution {
         for(int i=0;i<tasks.length;i++){
             freq[tasks[i]-'A']++;
         }
-        Arrays.sort(freq);
-        int maxFreq=freq[25];
-        int maxCountFreq=0;
-        for(int i:freq){
-            if(i==maxFreq) maxCountFreq++;
+        int maxFreq=0,maxFreqCount=0;
+        for(int i=0;i<26;i++){
+            maxFreq=Math.max(maxFreq,freq[i]);
         }
-        int skeletonTime=(maxFreq-1)*(n + 1)+maxCountFreq;
-        return Math.max(skeletonTime, tasks.length);
+        for(int i=0;i<26;i++){
+            if(freq[i]==maxFreq) maxFreqCount++;
+        }
+        int skelTime=(maxFreq-1)*(n + 1)+maxFreqCount;
+        return Math.max(skelTime,tasks.length);
     }
 }
