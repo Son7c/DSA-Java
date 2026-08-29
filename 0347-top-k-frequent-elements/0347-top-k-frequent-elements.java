@@ -1,30 +1,31 @@
-class Pair implements Comparable<Pair>{
-    int num,count;
-    public Pair(int n,int c){
-        this.num=n;
-        this.count=c;
-    }
-    @Override
-    public int compareTo(Pair p2){
-        return p2.count-this.count;
-    }
-}
 class Solution {
+    class Pair implements Comparable<Pair>{
+        int val, freq;
+
+        public Pair(int _v, int _f) {
+            val = _v;
+            freq = _f;
+        }
+
+        public int compareTo(Pair p2) {
+            return p2.freq - this.freq;
+        }
+    }
+
     public int[] topKFrequent(int[] nums, int k) {
         PriorityQueue<Pair> pq=new PriorityQueue<>();
-        HashMap<Integer,Integer> hm=new HashMap<>();
-        for(int i=0;i<nums.length;i++){
-            hm.put(nums[i],hm.getOrDefault(nums[i],0)+1);
+        HashMap<Integer,Integer> map=new HashMap<>();
+        for(int i:nums){
+            map.put(i,map.getOrDefault(i,0)+1);
         }
-        for(int key:hm.keySet()){
-            pq.add(new Pair(key,hm.get(key)));
+        for(int i:map.keySet()){
+            pq.add(new Pair(i,map.get(i)));
         }
-        int arr[]=new int[k];
-        int i=0;
-        while(k>0){
-            arr[i++]=pq.poll().num;
-            k--;
+        int[] ans=new int[k];
+        int idx=0;
+        while(!pq.isEmpty()&&idx!=k){
+            ans[idx++]=pq.poll().val;
         }
-        return arr;
+        return ans;
     }
 }
