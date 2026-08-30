@@ -445,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Son7c/DSA-Java/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/Son7c/DSA-Java/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/Son7c/DSA-Java/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/Son7c/DSA-Java/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/Son7c/DSA-Java/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/Son7c/DSA-Java/tree/master/0796-rotate-string) |
 | [0981-time-based-key-value-store](https://github.com/Son7c/DSA-Java/tree/master/0981-time-based-key-value-store) |
@@ -676,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Son7c/DSA-Java/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Son7c/DSA-Java/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Son7c/DSA-Java/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Son7c/DSA-Java/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Son7c/DSA-Java/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Son7c/DSA-Java/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Son7c/DSA-Java/tree/master/0739-daily-temperatures) |
@@ -833,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Son7c/DSA-Java/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/Son7c/DSA-Java/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/Son7c/DSA-Java/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/Son7c/DSA-Java/tree/master/0678-valid-parenthesis-string) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Son7c/DSA-Java/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0788-rotated-digits](https://github.com/Son7c/DSA-Java/tree/master/0788-rotated-digits) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Son7c/DSA-Java/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -909,6 +912,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Son7c/DSA-Java/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Son7c/DSA-Java/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Son7c/DSA-Java/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/Son7c/DSA-Java/tree/master/0678-valid-parenthesis-string) |
 | [0846-hand-of-straights](https://github.com/Son7c/DSA-Java/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/Son7c/DSA-Java/tree/master/0860-lemonade-change) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Son7c/DSA-Java/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -1024,4 +1028,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Son7c/DSA-Java/tree/master/0455-assign-cookies) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Son7c/DSA-Java/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
