@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/Son7c/DSA-Java/tree/master/0817-design-hashmap) |
 | [0846-hand-of-straights](https://github.com/Son7c/DSA-Java/tree/master/0846-hand-of-straights) |
 | [0860-design-circular-queue](https://github.com/Son7c/DSA-Java/tree/master/0860-design-circular-queue) |
+| [0860-lemonade-change](https://github.com/Son7c/DSA-Java/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Son7c/DSA-Java/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Son7c/DSA-Java/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Son7c/DSA-Java/tree/master/0904-fruit-into-baskets) |
@@ -909,6 +910,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Son7c/DSA-Java/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Son7c/DSA-Java/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Son7c/DSA-Java/tree/master/0846-hand-of-straights) |
+| [0860-lemonade-change](https://github.com/Son7c/DSA-Java/tree/master/0860-lemonade-change) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Son7c/DSA-Java/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/Son7c/DSA-Java/tree/master/1903-largest-odd-number-in-string) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Son7c/DSA-Java/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
