@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3689-maximum-total-subarray-value-i](https://github.com/Son7c/DSA-Java/tree/master/3689-maximum-total-subarray-value-i) |
 | [3731-find-missing-elements](https://github.com/Son7c/DSA-Java/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/Son7c/DSA-Java/tree/master/3838-weighted-word-mapping) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Son7c/DSA-Java/tree/master/3875-construct-uniform-parity-array-i) |
 | [3975-filter-occupied-intervals](https://github.com/Son7c/DSA-Java/tree/master/3975-filter-occupied-intervals) |
 ## Matrix
 |  |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Son7c/DSA-Java/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Son7c/DSA-Java/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Son7c/DSA-Java/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Son7c/DSA-Java/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
