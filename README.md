@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2643-row-with-maximum-ones](https://github.com/Son7c/DSA-Java/tree/master/2643-row-with-maximum-ones) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Son7c/DSA-Java/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Son7c/DSA-Java/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Son7c/DSA-Java/tree/master/3483-unique-3-digit-even-numbers) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Son7c/DSA-Java/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Son7c/DSA-Java/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Son7c/DSA-Java/tree/master/3689-maximum-total-subarray-value-i) |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Son7c/DSA-Java/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2013-detect-squares](https://github.com/Son7c/DSA-Java/tree/master/2013-detect-squares) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Son7c/DSA-Java/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Son7c/DSA-Java/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/Son7c/DSA-Java/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -765,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Son7c/DSA-Java/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Son7c/DSA-Java/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/Son7c/DSA-Java/tree/master/0486-predict-the-winner) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Son7c/DSA-Java/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -993,6 +996,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Son7c/DSA-Java/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Son7c/DSA-Java/tree/master/3483-unique-3-digit-even-numbers) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Son7c/DSA-Java/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Binary Indexed Tree
 |  |
